@@ -76,6 +76,14 @@ function initAll() {
 
 	// 随机布置细胞皿
 	$("#btn-randomSet").click(function () {
+		clearInterval(suspand);
+		$("#btn-start").val("开始演化");
+		row = $("#cell-count").val();
+		speed = $("#speed").val();
+		period = $("#period").text();
+		thickness = $("#thickness").val();
+		$("#cell-table").empty();
+		initAll();
 		for (var i = 0; i < row; i++)
 			for (var j = 0; j < row; j++) {
 				var flag = getRandomNum(0, 10);
@@ -124,6 +132,8 @@ $(function () {
 
 	// 下一周期
 	$("#next-term").click(function () {
+		$("#btn-start").val("开始演化");
+		clearInterval(suspand);
 		evolution();
 	});
 

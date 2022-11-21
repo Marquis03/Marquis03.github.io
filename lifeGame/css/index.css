@@ -1,0 +1,200 @@
+@charset "utf-8";
+
+* {
+	margin: 0;
+	box-sizing: border-box;
+	color: white;
+	font-family:"Microsoft YaHei UI";
+	/* border: 1px solid #aaa; */
+}
+
+html {
+	height: 100%;
+	width: 100%;
+}
+
+body {
+	width: 100%;
+	height: 100%;
+	padding: 2%;
+	background: url(../img/home-bg.png);
+	overflow: hidden;
+}
+
+h1{
+	filter: drop-shadow(2px 5px 5px rgba(0, 0, 0, 0.3));
+	-webkit-filter: drop-shadow(2px 5px 5px rgba(0, 0, 0, 0.3));
+	-moz-filter: drop-shadow(2px 5px 5px rgba(0, 0, 0, 0.3));
+}
+
+#table-module {
+	height: 100%;
+}
+
+#table-box {
+	width: 40rem;
+	height: 40rem;
+	padding: 1.5%;
+	background-color: #23b8af;
+	filter: drop-shadow(2px 5px 5px rgba(0, 0, 0, 0.2));
+	-webkit-filter: drop-shadow(2px 5px 5px rgba(0, 0, 0, 0.2));
+	-moz-filter: drop-shadow(2px 5px 5px rgba(0, 0, 0, 0.2));
+	border-radius: 1rem;
+}
+
+#table-box td:hover {
+	animation: tdHover 1s;
+	background-color: rgba(255, 255, 255, 0.7);
+}
+
+table {
+	width: 100%;
+	height: 100%;
+	text-align: center;
+	border-collapse: collapse;
+	border: 1px solid white;
+}
+
+#game-intro {
+	width: 20%;
+	height: 40rem;
+	margin-right: 2%;
+	padding: 2%;
+	background-color: #23b8af;
+	border-radius: 1rem;
+	filter: drop-shadow(2px 5px 5px rgba(0, 0, 0, 0.2));
+	-webkit-filter: drop-shadow(2px 5px 5px rgba(0, 0, 0, 0.2));
+	-moz-filter: drop-shadow(2px 5px 5px rgba(0, 0, 0, 0.2));
+	overflow: auto;
+}
+
+#game-intro::-webkit-scrollbar {
+	display: none;
+}
+
+#game-intro h2 {
+	margin-bottom: 1.5rem;
+	text-align: center;
+}
+
+#game-intro p {
+	font-size: 0.9rem;
+	margin: 5% 0 5% 0;
+}
+
+#game-operator {
+	width: 20%;
+	height: 40rem;
+	margin-left: 2%;
+	padding: 1%;
+	background-color: #23b8af;
+	border-radius: 1rem;
+	filter: drop-shadow(2px 5px 5px rgba(0, 0, 0, 0.2));
+	-webkit-filter: drop-shadow(2px 5px 5px rgba(0, 0, 0, 0.2));
+	-moz-filter: drop-shadow(2px 5px 5px rgba(0, 0, 0, 0.2));
+	overflow: auto;
+}
+
+#game-operator p {
+	margin: 5%;
+}
+
+#game-operator::-webkit-scrollbar {
+	display: none;
+}
+
+.text-module {
+	height: 45%;
+}
+
+.text-module input[type="text"] {
+	width: calc(100%);
+	padding: 2%;
+	border: 1.5px solid #fff;
+	outline: none;
+	background-color: rgba(0, 0, 0, 0);
+}
+
+input::-webkit-input-placeholder {
+	color: #ddd;
+}
+
+input::-moz-placeholder {
+	/* Mozilla Firefox 19+ */
+	color: #ddd;
+}
+
+input:-moz-placeholder {
+	/* Mozilla Firefox 4 to 18 */
+	color: #ddd;
+}
+
+input:-ms-input-placeholder {
+	/* Internet Explorer 10-11 */
+	color: #ddd;
+}
+
+
+.text-module p {
+	display: flex;
+	align-items: center;
+}
+
+#cur-period {
+	display: flex;
+	justify-content: flex-start;
+}
+
+.text-module .Label {
+	font-weight: bold;
+	white-space: nowrap;
+}
+
+.text-module .comment{
+	font-size: 0.7rem;
+}
+
+#cell-count {
+	width: calc(100%-10px);
+}
+
+.btn-module {
+	height: 50%;
+	display: flex;
+	align-items: flex-end;
+}
+
+.btn-box {
+	width: 100%;
+}
+
+.btn-module input[type="button"] {
+	width: 100%;
+	padding: 0.5rem;
+	font-size: 1.1rem;
+	color: #19867d;
+	border: none;
+	border-radius: 1rem;
+	background-color: #b8faff;
+	transition: all 0.4s;
+	outline: none;
+}
+
+.btn-module input[type="button"]:hover{
+	background-color: #fff;
+}
+
+.btn-module input[type="button"]:active{
+	background-color: #b8faff;
+}
+
+#copy-right a {
+	margin: 0 1% 0 1%;
+	font-size: 0.8rem;
+}
+
+#copy-right hr{
+	height: 1rem;
+	border: none;
+	border-right: 1px solid #fff;
+}

@@ -3,7 +3,7 @@
 * {
 	margin: 0;
 	box-sizing: border-box;
-	color: white;
+	color: #bebebe;
 	font-family:"Microsoft YaHei UI";
 	/* border: 1px solid #aaa; */
 }
@@ -17,7 +17,7 @@ body {
 	width: 100%;
 	height: 100%;
 	padding: 2%;
-	background: url(../img/home-bg.png);
+	background-color: black;
 	overflow: hidden;
 }
 
@@ -35,7 +35,7 @@ h1{
 	width: 40rem;
 	height: 40rem;
 	padding: 1.5%;
-	background-color: #23b8af;
+	background-color: #1a1a1a;
 	filter: drop-shadow(2px 5px 5px rgba(0, 0, 0, 0.2));
 	-webkit-filter: drop-shadow(2px 5px 5px rgba(0, 0, 0, 0.2));
 	-moz-filter: drop-shadow(2px 5px 5px rgba(0, 0, 0, 0.2));
@@ -52,7 +52,7 @@ table {
 	height: 100%;
 	text-align: center;
 	border-collapse: collapse;
-	border: 1px solid white;
+	border: 1px solid #bebebe;
 }
 
 #game-intro {
@@ -60,7 +60,7 @@ table {
 	height: 40rem;
 	margin-right: 2%;
 	padding: 2%;
-	background-color: #23b8af;
+	background-color: #1a1a1a;
 	border-radius: 1rem;
 	filter: drop-shadow(2px 5px 5px rgba(0, 0, 0, 0.2));
 	-webkit-filter: drop-shadow(2px 5px 5px rgba(0, 0, 0, 0.2));
@@ -78,7 +78,7 @@ table {
 }
 
 #game-intro p {
-	font-size: 0.9rem;
+	font-size: 1rem;
 	margin: 5% 0 5% 0;
 }
 
@@ -87,7 +87,7 @@ table {
 	height: 40rem;
 	margin-left: 2%;
 	padding: 1%;
-	background-color: #23b8af;
+	background-color: #1a1a1a;
 	border-radius: 1rem;
 	filter: drop-shadow(2px 5px 5px rgba(0, 0, 0, 0.2));
 	-webkit-filter: drop-shadow(2px 5px 5px rgba(0, 0, 0, 0.2));
@@ -151,7 +151,7 @@ input:-ms-input-placeholder {
 }
 
 .text-module .comment{
-	font-size: 0.7rem;
+	font-size: 1rem;
 }
 
 #cell-count {
@@ -172,29 +172,38 @@ input:-ms-input-placeholder {
 	width: 100%;
 	padding: 0.5rem;
 	font-size: 1.1rem;
-	color: #19867d;
+	color: #bebebe;
 	border: none;
 	border-radius: 1rem;
-	background-color: #b8faff;
+	background-color: #212121;
 	transition: all 0.4s;
 	outline: none;
 }
 
 .btn-module input[type="button"]:hover{
-	background-color: #fff;
+	background-color: #808080;
 }
 
 .btn-module input[type="button"]:active{
-	background-color: #b8faff;
+	background-color: #212121;
 }
 
-#copy-right a {
-	margin: 0 1% 0 1%;
-	font-size: 0.8rem;
-}
-
-#copy-right hr{
-	height: 1rem;
+#game-intro input[type="button"] {
+	width: 100%;
+	padding: 0.5rem;
+	font-size: 1.1rem;
+	color: #bebebe;
 	border: none;
-	border-right: 1px solid #fff;
+	border-radius: 1rem;
+	background-color: #212121;
+	transition: all 0.4s;
+	outline: none;
+}
+
+#game-intro input[type="button"]:hover{
+	background-color: #808080;
+}
+
+#game-intro input[type="button"]:active{
+	background-color: #212121;
 }

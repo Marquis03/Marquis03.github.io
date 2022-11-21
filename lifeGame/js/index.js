@@ -1,5 +1,5 @@
 var row = 30; //全局设置网格的数量
-var speed = 500;
+var speed = 200;
 var period;
 var thickness = 3;
 
@@ -214,3 +214,7 @@ function countCell(r, c) {
 	if (r < 0 || r >= row || c < 0 || c >= row || cell[r][c] == 0) return 0;
 	return 1;
 }
+
+$("#btn-back").click(function () {
+	window.location.href = window.location.origin;
+});

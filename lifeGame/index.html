@@ -8,8 +8,6 @@
 	<link rel="icon" type="image/x-icon" href="img/favicon.ico" />
 	<link type="text/css" rel="stylesheet" href="css/index.css" />
 	<link type="text/css" rel="stylesheet" href="css/style.css" />
-	<script src="https://cdn.bootcss.com/jquery/3.4.1/jquery.min.js"></script>
-	<script src="js/index.js"></script>
 </head>
 
 <body>
@@ -23,10 +21,11 @@
 			<h2>游戏简介</h2>
 			<p>生命游戏(game of life)为1970年由英国数学家J. H. Conway所提出
 				某细胞的邻居包括上、下、左、右、左上、左下、右上与右下相邻之细胞 游戏规则如下：</p>
-			<p><b>孤单死亡：</b>如果细胞的邻居小于等于1个，则该细胞在下一次状态将死亡；</p>
-			<p><b>拥挤死亡：</b>如果细胞的邻居在4个及以上，则该细胞在下一次状态将死亡；</p>
-			<p><b>稳定：</b>如果细胞的邻居为2个或3个，则下一次状态为稳定存活；</p>
-			<p><b>复活：</b>如果某位置原无细胞存活，而该位置的邻居为2个或3个，则该位置将复活一个细胞。</p>
+			<p><b>离群死亡：</b>如果细胞的邻居小于等于1个，则该细胞在下一次状态将死亡；</p>
+			<p><b>竞争死亡：</b>如果细胞的邻居在4个及以上，则该细胞在下一次状态将死亡；</p>
+			<p><b>存活：</b>如果细胞的邻居为2个或3个，则下一次状态为稳定存活；</p>
+			<p><b>生成：</b>如果某位置原无细胞存活，而该位置的邻居为2个或3个，则该位置将生成一个细胞。</p>
+			<p><input id="btn-back" type="button" value="返回主页" /></p>
 		</div>
 
 		<div id="table-box">
@@ -40,11 +39,11 @@
 				<p id="cur-period"><span class="Label">当前周期：</span><span id="period"></span></p>
 				<p>
 					<span class="Label">行列数量：</span>
-					<input id="cell-count" type="text" placeholder="整数(0<n<=100)" />
+					<input id="cell-count" type="text" />
 				</p>
-				<p><span class="Label">演化速度：</span><input id="speed" type="text" /></p>
+				<p><span class="Label">演化周期：</span><input id="speed" type="text" /></p>
 				<p title="设置随机分布时的密度"><span class="Label">分布密度：</span><input id="thickness" type="text" /></p>
-				<p class="comment">提示：“行列数量” 和 “分布密度” 在点击 “重新布置” 后生效。</p>
+				<p class="comment">提示：<br />“行列数量” 和 “分布密度” 在点击 “重新布置” 后生效，“演化周期”单位为毫秒。</p>
 			</div>
 
 			<div class="btn-module">
@@ -58,6 +57,12 @@
 
 		</div>
 	</div>
+	<canvas></canvas>
+	<script src="https://cdn.bootcss.com/jquery/3.4.1/jquery.min.js"></script>
+	<script src="js/index.js"></script>
+	<script src="https://cdn.bootcss.com/canvas-nest.js/2.0.4/canvas-nest.js" type="text/javascript" color="255,255,255"
+		opacity="0.8" zIndex="-1" count="300"></script>
 </body>
+
 
 </html>

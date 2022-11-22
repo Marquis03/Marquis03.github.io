@@ -52,14 +52,6 @@ function stopMaskScroll() {
         !1)
     }
 }
-function switchDarkMode() {
-    removeRightMenu();
-    let t = "dark" === document.documentElement.getAttribute("data-theme") ? "dark": "light";
-    "light" === t ? (activateDarkMode(), saveToLocal.set("theme", "dark", 2), void 0 !== GLOBAL_CONFIG.Snackbar && snackbarShow(GLOBAL_CONFIG.Snackbar.day_to_night)) : (activateLightMode(), saveToLocal.set("theme", "light", 2), void 0 !== GLOBAL_CONFIG.Snackbar && snackbarShow(GLOBAL_CONFIG.Snackbar.night_to_day)),
-    "function" == typeof utterancesTheme && utterancesTheme(),
-    "object" == typeof FB && window.loadFBComment(),
-    window.DISQUS && document.getElementById("disqus_thread").children.length && setTimeout(() => window.disqusReset(), 200)
-}
 function copyUrl(t) {
     navigator.clipboard && navigator.clipboard.writeText(t);
 }
@@ -133,10 +125,6 @@ function() {
 $("#menu-refresh").on("click",
 function() {
     window.location.reload()
-}),
-$("#menu-darkmode").on("click",
-function() {
-    switchDarkMode()
 }),
 $("#menu-home").on("click",
 function() {

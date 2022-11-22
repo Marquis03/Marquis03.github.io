@@ -65,7 +65,7 @@ toDevtools();</script><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compati
   isHome: false,
   isHighlightShrink: false,
   isToc: false,
-  postUpdate: '2022-11-22 23:44:22'
+  postUpdate: '2022-11-23 00:57:31'
 }</script><noscript><style type="text/css">
   #nav {
     opacity: 1
@@ -122,23 +122,6 @@ toDevtools();</script><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compati
       document.head.appendChild(script)
     })
   
-      win.activateDarkMode = function () {
-        document.documentElement.setAttribute('data-theme', 'dark')
-        if (document.querySelector('meta[name="theme-color"]') !== null) {
-          document.querySelector('meta[name="theme-color"]').setAttribute('content', '#0d0d0d')
-        }
-      }
-      win.activateLightMode = function () {
-        document.documentElement.setAttribute('data-theme', 'light')
-        if (document.querySelector('meta[name="theme-color"]') !== null) {
-          document.querySelector('meta[name="theme-color"]').setAttribute('content', '#ffffff')
-        }
-      }
-      const t = saveToLocal.get('theme')
-    
-          if (t === 'dark') activateDarkMode()
-          else if (t === 'light') activateLightMode()
-        
       const asideStatus = saveToLocal.get('aside-status')
       if (asideStatus !== undefined) {
         if (asideStatus === 'hide') {

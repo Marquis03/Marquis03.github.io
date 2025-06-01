@@ -1,0 +1,4837 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>小嗷犬</title>
+  
+  <subtitle>分享技术，记录生活</subtitle>
+  <link href="https://blog.marquis.eu.org/atom.xml" rel="self"/>
+  
+  <link href="https://blog.marquis.eu.org/"/>
+  <updated>2025-06-01T08:31:02.387Z</updated>
+  <id>https://blog.marquis.eu.org/</id>
+  
+  <author>
+    <name>小嗷犬</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>【论文笔记】Sign Language Video Retrieval with Free-Form Textual Queries</title>
+    <link href="https://blog.marquis.eu.org/posts/6062c529/"/>
+    <id>https://blog.marquis.eu.org/posts/6062c529/</id>
+    <published>2025-01-12T09:51:53.000Z</published>
+    <updated>2025-06-01T08:31:02.387Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;基本信息&quot;&gt;基本信息&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;: Sign Language Video Retrieval with Free-Form Textual Queries&lt;br&gt;
+&lt;strong&gt;作者&lt;/strong&gt;: Amanda</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="论文笔记" scheme="https://blog.marquis.eu.org/tags/%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="手语翻译" scheme="https://blog.marquis.eu.org/tags/%E6%89%8B%E8%AF%AD%E7%BF%BB%E8%AF%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【论文笔记】PiSSA: Principal Singular Values and Singular Vectors Adaptation of Large Language Models</title>
+    <link href="https://blog.marquis.eu.org/posts/af8b765f/"/>
+    <id>https://blog.marquis.eu.org/posts/af8b765f/</id>
+    <published>2025-01-05T14:30:30.000Z</published>
+    <updated>2025-06-01T08:31:02.383Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;基本信息&quot;&gt;基本信息&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;: PiSSA: Principal Singular Values and Singular Vectors Adaptation of Large Language Models&lt;br</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="大模型" scheme="https://blog.marquis.eu.org/tags/%E5%A4%A7%E6%A8%A1%E5%9E%8B/"/>
+    
+    <category term="论文笔记" scheme="https://blog.marquis.eu.org/tags/%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="微调" scheme="https://blog.marquis.eu.org/tags/%E5%BE%AE%E8%B0%83/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【论文笔记】Direct Preference Optimization: Your Language Model is Secretly a Reward Model</title>
+    <link href="https://blog.marquis.eu.org/posts/dc5a7551/"/>
+    <id>https://blog.marquis.eu.org/posts/dc5a7551/</id>
+    <published>2025-01-05T13:44:55.000Z</published>
+    <updated>2025-06-01T08:31:02.351Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;基本信息&quot;&gt;基本信息&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;: Direct Preference Optimization: Your Language Model is Secretly a Reward Model&lt;br&gt;
+&lt;strong&gt;作</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="大模型" scheme="https://blog.marquis.eu.org/tags/%E5%A4%A7%E6%A8%A1%E5%9E%8B/"/>
+    
+    <category term="论文笔记" scheme="https://blog.marquis.eu.org/tags/%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="微调" scheme="https://blog.marquis.eu.org/tags/%E5%BE%AE%E8%B0%83/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【论文笔记】LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models</title>
+    <link href="https://blog.marquis.eu.org/posts/5301fcd1/"/>
+    <id>https://blog.marquis.eu.org/posts/5301fcd1/</id>
+    <published>2025-01-05T13:00:39.000Z</published>
+    <updated>2025-06-01T08:31:02.377Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;基本信息&quot;&gt;基本信息&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;: LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models&lt;br&gt;
+&lt;strong&gt;作者&lt;/strong</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="大模型" scheme="https://blog.marquis.eu.org/tags/%E5%A4%A7%E6%A8%A1%E5%9E%8B/"/>
+    
+    <category term="论文笔记" scheme="https://blog.marquis.eu.org/tags/%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="微调" scheme="https://blog.marquis.eu.org/tags/%E5%BE%AE%E8%B0%83/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【论文笔记】NEFTune: Noisy Embeddings Improve Instruction Finetuning</title>
+    <link href="https://blog.marquis.eu.org/posts/f9e2309d/"/>
+    <id>https://blog.marquis.eu.org/posts/f9e2309d/</id>
+    <published>2025-01-05T12:17:40.000Z</published>
+    <updated>2025-06-01T08:31:02.380Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;基本信息&quot;&gt;基本信息&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;: NEFTune: Noisy Embeddings Improve Instruction Finetuning&lt;br&gt;
+&lt;strong&gt;作者&lt;/strong&gt;: Neel Jain,</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="大模型" scheme="https://blog.marquis.eu.org/tags/%E5%A4%A7%E6%A8%A1%E5%9E%8B/"/>
+    
+    <category term="论文笔记" scheme="https://blog.marquis.eu.org/tags/%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="微调" scheme="https://blog.marquis.eu.org/tags/%E5%BE%AE%E8%B0%83/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【论文笔记】QLoRA: Efficient Finetuning of Quantized LLMs</title>
+    <link href="https://blog.marquis.eu.org/posts/9d9ec12e/"/>
+    <id>https://blog.marquis.eu.org/posts/9d9ec12e/</id>
+    <published>2025-01-05T11:54:08.000Z</published>
+    <updated>2025-06-01T08:31:02.385Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;基本信息&quot;&gt;基本信息&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;: QLoRA: Efficient Finetuning of Quantized LLMs&lt;br&gt;
+&lt;strong&gt;作者&lt;/strong&gt;: Tim Dettmers, Artidor</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="大模型" scheme="https://blog.marquis.eu.org/tags/%E5%A4%A7%E6%A8%A1%E5%9E%8B/"/>
+    
+    <category term="论文笔记" scheme="https://blog.marquis.eu.org/tags/%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="微调" scheme="https://blog.marquis.eu.org/tags/%E5%BE%AE%E8%B0%83/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【论文笔记】Contrastive Learning for Sign Language Recognition and Translation</title>
+    <link href="https://blog.marquis.eu.org/posts/b8ab8bc6/"/>
+    <id>https://blog.marquis.eu.org/posts/b8ab8bc6/</id>
+    <published>2024-12-29T13:18:49.000Z</published>
+    <updated>2025-06-01T08:31:02.348Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;基本信息&quot;&gt;基本信息&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;: Contrastive Learning for Sign Language Recognition and Translation&lt;br&gt;
+&lt;strong&gt;作者&lt;/strong&gt;: </summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="论文笔记" scheme="https://blog.marquis.eu.org/tags/%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="手语翻译" scheme="https://blog.marquis.eu.org/tags/%E6%89%8B%E8%AF%AD%E7%BF%BB%E8%AF%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【论文笔记】CDFSL-V: Cross-Domain Few-Shot Learning for Videos</title>
+    <link href="https://blog.marquis.eu.org/posts/f4c90389/"/>
+    <id>https://blog.marquis.eu.org/posts/f4c90389/</id>
+    <published>2024-12-29T11:54:39.000Z</published>
+    <updated>2025-06-01T08:31:02.340Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;基本信息&quot;&gt;基本信息&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;: CDFSL-V: Cross-Domain Few-Shot Learning for Videos&lt;br&gt;
+&lt;strong&gt;作者&lt;/strong&gt;: Sarinda Samarasi</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="论文笔记" scheme="https://blog.marquis.eu.org/tags/%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="多模态" scheme="https://blog.marquis.eu.org/tags/%E5%A4%9A%E6%A8%A1%E6%80%81/"/>
+    
+    <category term="少样本" scheme="https://blog.marquis.eu.org/tags/%E5%B0%91%E6%A0%B7%E6%9C%AC/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【论文笔记】Top-nσ: Not All Logits Are You Need</title>
+    <link href="https://blog.marquis.eu.org/posts/b20848a6/"/>
+    <id>https://blog.marquis.eu.org/posts/b20848a6/</id>
+    <published>2024-12-29T11:09:52.000Z</published>
+    <updated>2025-06-01T08:31:02.389Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;基本信息&quot;&gt;基本信息&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;: Top-&lt;span class=&quot;katex&quot;&gt;&lt;span class=&quot;katex-mathml&quot;&gt;&lt;math xmlns=&quot;http://www.w3.org/1998/Math/</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="大模型" scheme="https://blog.marquis.eu.org/tags/%E5%A4%A7%E6%A8%A1%E5%9E%8B/"/>
+    
+    <category term="论文笔记" scheme="https://blog.marquis.eu.org/tags/%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【论文笔记】CoSign: Exploring Co-occurrence Signals in Skeleton-based Continuous Sign Language Recognition</title>
+    <link href="https://blog.marquis.eu.org/posts/c86bf478/"/>
+    <id>https://blog.marquis.eu.org/posts/c86bf478/</id>
+    <published>2024-12-22T13:48:44.000Z</published>
+    <updated>2025-06-01T08:31:02.347Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;基本信息&quot;&gt;基本信息&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;: CoSign: Exploring Co-occurrence Signals in Skeleton-based Continuous Sign Language Recogniti</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="论文笔记" scheme="https://blog.marquis.eu.org/tags/%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="手语翻译" scheme="https://blog.marquis.eu.org/tags/%E6%89%8B%E8%AF%AD%E7%BF%BB%E8%AF%91/"/>
+    
+    <category term="多模态" scheme="https://blog.marquis.eu.org/tags/%E5%A4%9A%E6%A8%A1%E6%80%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【论文笔记】Visual Alignment Pre-training for Sign Language Translation</title>
+    <link href="https://blog.marquis.eu.org/posts/e046b24a/"/>
+    <id>https://blog.marquis.eu.org/posts/e046b24a/</id>
+    <published>2024-12-22T11:37:47.000Z</published>
+    <updated>2025-06-01T08:31:02.394Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;基本信息&quot;&gt;基本信息&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;: Visual Alignment Pre-training for Sign Language Translation&lt;br&gt;
+&lt;strong&gt;作者&lt;/strong&gt;: Peiqi J</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="论文笔记" scheme="https://blog.marquis.eu.org/tags/%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="手语翻译" scheme="https://blog.marquis.eu.org/tags/%E6%89%8B%E8%AF%AD%E7%BF%BB%E8%AF%91/"/>
+    
+    <category term="多模态" scheme="https://blog.marquis.eu.org/tags/%E5%A4%9A%E6%A8%A1%E6%80%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【论文笔记】CiCo: Domain-Aware Sign Language Retrieval via Cross-Lingual Contrastive Learning</title>
+    <link href="https://blog.marquis.eu.org/posts/3328aa51/"/>
+    <id>https://blog.marquis.eu.org/posts/3328aa51/</id>
+    <published>2024-12-22T10:39:33.000Z</published>
+    <updated>2025-06-01T08:31:02.345Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;基本信息&quot;&gt;基本信息&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;: CiCo: Domain-Aware Sign Language Retrieval via Cross-Lingual Contrastive Learning&lt;br&gt;
+&lt;stron</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="论文笔记" scheme="https://blog.marquis.eu.org/tags/%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="手语翻译" scheme="https://blog.marquis.eu.org/tags/%E6%89%8B%E8%AF%AD%E7%BF%BB%E8%AF%91/"/>
+    
+    <category term="多模态" scheme="https://blog.marquis.eu.org/tags/%E5%A4%9A%E6%A8%A1%E6%80%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【论文笔记】Cross-lingual few-shot sign language recognition</title>
+    <link href="https://blog.marquis.eu.org/posts/1f1784e3/"/>
+    <id>https://blog.marquis.eu.org/posts/1f1784e3/</id>
+    <published>2024-12-22T10:00:24.000Z</published>
+    <updated>2025-06-01T08:31:02.349Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;基本信息&quot;&gt;基本信息&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;: Cross-lingual few-shot sign language recognition&lt;br&gt;
+&lt;strong&gt;作者&lt;/strong&gt;: Yunus Can Bilge, N</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="论文笔记" scheme="https://blog.marquis.eu.org/tags/%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="手语翻译" scheme="https://blog.marquis.eu.org/tags/%E6%89%8B%E8%AF%AD%E7%BF%BB%E8%AF%91/"/>
+    
+    <category term="少样本" scheme="https://blog.marquis.eu.org/tags/%E5%B0%91%E6%A0%B7%E6%9C%AC/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【论文笔记】Multimodal Cross-Domain Few-Shot Learning for Egocentric Action Recognition</title>
+    <link href="https://blog.marquis.eu.org/posts/e42411bb/"/>
+    <id>https://blog.marquis.eu.org/posts/e42411bb/</id>
+    <published>2024-12-22T09:25:31.000Z</published>
+    <updated>2025-06-01T08:31:02.380Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;基本信息&quot;&gt;基本信息&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;: Multimodal Cross-Domain Few-Shot Learning for Egocentric Action Recognition&lt;br&gt;
+&lt;strong&gt;作者&lt;/</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="论文笔记" scheme="https://blog.marquis.eu.org/tags/%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="多模态" scheme="https://blog.marquis.eu.org/tags/%E5%A4%9A%E6%A8%A1%E6%80%81/"/>
+    
+    <category term="少样本" scheme="https://blog.marquis.eu.org/tags/%E5%B0%91%E6%A0%B7%E6%9C%AC/"/>
+    
+    <category term="动作识别" scheme="https://blog.marquis.eu.org/tags/%E5%8A%A8%E4%BD%9C%E8%AF%86%E5%88%AB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【论文笔记】Improving Sign Language Translation with Monolingual Data by Sign Back-Translation</title>
+    <link href="https://blog.marquis.eu.org/posts/3cf559a4/"/>
+    <id>https://blog.marquis.eu.org/posts/3cf559a4/</id>
+    <published>2024-12-15T14:24:07.000Z</published>
+    <updated>2025-06-01T08:31:02.365Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;基本信息&quot;&gt;基本信息&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;: Improving Sign Language Translation with Monolingual Data by Sign Back-Translation&lt;br&gt;
+&lt;stro</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="论文笔记" scheme="https://blog.marquis.eu.org/tags/%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="手语翻译" scheme="https://blog.marquis.eu.org/tags/%E6%89%8B%E8%AF%AD%E7%BF%BB%E8%AF%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【论文笔记】Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks</title>
+    <link href="https://blog.marquis.eu.org/posts/24e4e06b/"/>
+    <id>https://blog.marquis.eu.org/posts/24e4e06b/</id>
+    <published>2024-12-15T11:36:33.000Z</published>
+    <updated>2025-06-01T08:31:02.357Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;基本信息&quot;&gt;基本信息&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;: Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks&lt;br&gt;
+&lt;strong&gt;作者&lt;</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="大模型" scheme="https://blog.marquis.eu.org/tags/%E5%A4%A7%E6%A8%A1%E5%9E%8B/"/>
+    
+    <category term="论文笔记" scheme="https://blog.marquis.eu.org/tags/%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="多模态" scheme="https://blog.marquis.eu.org/tags/%E5%A4%9A%E6%A8%A1%E6%80%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【论文笔记】Editing Models with Task Arithmetic</title>
+    <link href="https://blog.marquis.eu.org/posts/85b117e2/"/>
+    <id>https://blog.marquis.eu.org/posts/85b117e2/</id>
+    <published>2024-12-15T10:42:41.000Z</published>
+    <updated>2025-06-01T08:31:02.352Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;基本信息&quot;&gt;基本信息&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;: Editing Models with Task Arithmetic&lt;br&gt;
+&lt;strong&gt;作者&lt;/strong&gt;: Gabriel Ilharco, Marco Tulio Ri</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="大模型" scheme="https://blog.marquis.eu.org/tags/%E5%A4%A7%E6%A8%A1%E5%9E%8B/"/>
+    
+    <category term="论文笔记" scheme="https://blog.marquis.eu.org/tags/%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="多任务" scheme="https://blog.marquis.eu.org/tags/%E5%A4%9A%E4%BB%BB%E5%8A%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【论文笔记】Visual Prompt Tuning</title>
+    <link href="https://blog.marquis.eu.org/posts/c7e70908/"/>
+    <id>https://blog.marquis.eu.org/posts/c7e70908/</id>
+    <published>2024-12-15T09:07:37.000Z</published>
+    <updated>2025-06-01T08:31:02.395Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;基本信息&quot;&gt;基本信息&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;: Visual Prompt Tuning&lt;br&gt;
+&lt;strong&gt;作者&lt;/strong&gt;: Menglin Jia, Luming Tang, Bor-Chun Chen, Clair</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="大模型" scheme="https://blog.marquis.eu.org/tags/%E5%A4%A7%E6%A8%A1%E5%9E%8B/"/>
+    
+    <category term="论文笔记" scheme="https://blog.marquis.eu.org/tags/%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="微调" scheme="https://blog.marquis.eu.org/tags/%E5%BE%AE%E8%B0%83/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【论文笔记】CLIP-guided Prototype Modulating for Few-shot Action Recognition</title>
+    <link href="https://blog.marquis.eu.org/posts/fb04782/"/>
+    <id>https://blog.marquis.eu.org/posts/fb04782/</id>
+    <published>2024-12-15T08:16:23.000Z</published>
+    <updated>2025-06-01T08:31:02.341Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;基本信息&quot;&gt;基本信息&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;: CLIP-guided Prototype Modulating for Few-shot Action Recognition&lt;br&gt;
+&lt;strong&gt;作者&lt;/strong&gt;: Xi</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="论文笔记" scheme="https://blog.marquis.eu.org/tags/%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="多模态" scheme="https://blog.marquis.eu.org/tags/%E5%A4%9A%E6%A8%A1%E6%80%81/"/>
+    
+    <category term="少样本" scheme="https://blog.marquis.eu.org/tags/%E5%B0%91%E6%A0%B7%E6%9C%AC/"/>
+    
+    <category term="动作识别" scheme="https://blog.marquis.eu.org/tags/%E5%8A%A8%E4%BD%9C%E8%AF%86%E5%88%AB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【论文笔记】How Far Are We to GPT-4V? Closing the Gap to Commercial Multimodal Models with Open-Source Suites</title>
+    <link href="https://blog.marquis.eu.org/posts/1a2b7330/"/>
+    <id>https://blog.marquis.eu.org/posts/1a2b7330/</id>
+    <published>2024-12-08T13:40:47.000Z</published>
+    <updated>2025-06-01T08:31:02.358Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;基本信息&quot;&gt;基本信息&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;: How Far Are We to GPT-4V? Closing the Gap to Commercial Multimodal Models with Open-Source S</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="大模型" scheme="https://blog.marquis.eu.org/tags/%E5%A4%A7%E6%A8%A1%E5%9E%8B/"/>
+    
+    <category term="论文笔记" scheme="https://blog.marquis.eu.org/tags/%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="多模态" scheme="https://blog.marquis.eu.org/tags/%E5%A4%9A%E6%A8%A1%E6%80%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【论文笔记】Florence-VL: Enhancing Vision-Language Models with Generative Vision Encoder and Depth-Breadth Fusion</title>
+    <link href="https://blog.marquis.eu.org/posts/a22023ba/"/>
+    <id>https://blog.marquis.eu.org/posts/a22023ba/</id>
+    <published>2024-12-08T12:58:16.000Z</published>
+    <updated>2025-06-01T08:31:02.358Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;基本信息&quot;&gt;基本信息&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;: Florence-VL: Enhancing Vision-Language Models with Generative Vision Encoder and Depth-Bread</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="大模型" scheme="https://blog.marquis.eu.org/tags/%E5%A4%A7%E6%A8%A1%E5%9E%8B/"/>
+    
+    <category term="论文笔记" scheme="https://blog.marquis.eu.org/tags/%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="多模态" scheme="https://blog.marquis.eu.org/tags/%E5%A4%9A%E6%A8%A1%E6%80%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【论文笔记】VisionZip: Longer is Better but Not Necessary in Vision Language Models</title>
+    <link href="https://blog.marquis.eu.org/posts/84913c12/"/>
+    <id>https://blog.marquis.eu.org/posts/84913c12/</id>
+    <published>2024-12-08T12:15:15.000Z</published>
+    <updated>2025-06-01T08:31:02.393Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;基本信息&quot;&gt;基本信息&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;: VisionZip: Longer is Better but Not Necessary in Vision Language Models&lt;br&gt;
+&lt;strong&gt;作者&lt;/stro</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="大模型" scheme="https://blog.marquis.eu.org/tags/%E5%A4%A7%E6%A8%A1%E5%9E%8B/"/>
+    
+    <category term="论文笔记" scheme="https://blog.marquis.eu.org/tags/%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="多模态" scheme="https://blog.marquis.eu.org/tags/%E5%A4%9A%E6%A8%A1%E6%80%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【论文笔记】LanguageBind: Extending Video-Language Pretraining to N-modality by Language-based Semantic Alignment</title>
+    <link href="https://blog.marquis.eu.org/posts/435d666e/"/>
+    <id>https://blog.marquis.eu.org/posts/435d666e/</id>
+    <published>2024-12-08T09:43:20.000Z</published>
+    <updated>2025-06-01T08:31:02.369Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;基本信息&quot;&gt;基本信息&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;: LanguageBind: Extending Video-Language Pretraining to N-modality by Language-based Semantic </summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="论文笔记" scheme="https://blog.marquis.eu.org/tags/%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="多模态" scheme="https://blog.marquis.eu.org/tags/%E5%A4%9A%E6%A8%A1%E6%80%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【论文笔记】BSL-1K: Scaling up co-articulated sign language recognition using mouthing cues</title>
+    <link href="https://blog.marquis.eu.org/posts/fb90e1a7/"/>
+    <id>https://blog.marquis.eu.org/posts/fb90e1a7/</id>
+    <published>2024-12-08T09:03:41.000Z</published>
+    <updated>2025-06-01T08:31:02.330Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;基本信息&quot;&gt;基本信息&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;: BSL-1K: Scaling up co-articulated sign language recognition using mouthing cues&lt;br&gt;
+&lt;strong&gt;</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="论文笔记" scheme="https://blog.marquis.eu.org/tags/%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="手语翻译" scheme="https://blog.marquis.eu.org/tags/%E6%89%8B%E8%AF%AD%E7%BF%BB%E8%AF%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【论文笔记】A Token-level Contrastive Framework for Sign Language Translation</title>
+    <link href="https://blog.marquis.eu.org/posts/1241c2bc/"/>
+    <id>https://blog.marquis.eu.org/posts/1241c2bc/</id>
+    <published>2024-12-01T13:05:43.000Z</published>
+    <updated>2025-06-01T08:31:02.326Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;基本信息&quot;&gt;基本信息&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;: A Token-level Contrastive Framework for Sign Language Translation&lt;br&gt;
+&lt;strong&gt;作者&lt;/strong&gt;: B</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="论文笔记" scheme="https://blog.marquis.eu.org/tags/%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="手语翻译" scheme="https://blog.marquis.eu.org/tags/%E6%89%8B%E8%AF%AD%E7%BF%BB%E8%AF%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【论文笔记】A Simple Multi-Modality Transfer Learning Baseline for Sign Language Translation</title>
+    <link href="https://blog.marquis.eu.org/posts/5cee106/"/>
+    <id>https://blog.marquis.eu.org/posts/5cee106/</id>
+    <published>2024-12-01T12:48:34.000Z</published>
+    <updated>2025-06-01T08:31:02.324Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;基本信息&quot;&gt;基本信息&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;: A Simple Multi-Modality Transfer Learning Baseline for Sign Language Translation&lt;br&gt;
+&lt;strong</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="论文笔记" scheme="https://blog.marquis.eu.org/tags/%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="手语翻译" scheme="https://blog.marquis.eu.org/tags/%E6%89%8B%E8%AF%AD%E7%BF%BB%E8%AF%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【论文笔记】Leveraging the Power of MLLMs for Gloss-Free Sign Language Translation</title>
+    <link href="https://blog.marquis.eu.org/posts/f03f39c5/"/>
+    <id>https://blog.marquis.eu.org/posts/f03f39c5/</id>
+    <published>2024-12-01T12:31:17.000Z</published>
+    <updated>2025-06-01T08:31:02.372Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;基本信息&quot;&gt;基本信息&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;: Leveraging the Power of MLLMs for Gloss-Free Sign Language Translation&lt;br&gt;
+&lt;strong&gt;作者&lt;/stron</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="大模型" scheme="https://blog.marquis.eu.org/tags/%E5%A4%A7%E6%A8%A1%E5%9E%8B/"/>
+    
+    <category term="论文笔记" scheme="https://blog.marquis.eu.org/tags/%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="手语翻译" scheme="https://blog.marquis.eu.org/tags/%E6%89%8B%E8%AF%AD%E7%BF%BB%E8%AF%91/"/>
+    
+    <category term="多模态" scheme="https://blog.marquis.eu.org/tags/%E5%A4%9A%E6%A8%A1%E6%80%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【论文笔记】Magnifier Prompt: Tackling Multimodal Hallucination via Extremely Simple Instructions</title>
+    <link href="https://blog.marquis.eu.org/posts/1a40ecc2/"/>
+    <id>https://blog.marquis.eu.org/posts/1a40ecc2/</id>
+    <published>2024-11-30T15:57:06.000Z</published>
+    <updated>2025-06-01T08:31:02.379Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;基本信息&quot;&gt;基本信息&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;: Magnifier Prompt: Tackling Multimodal Hallucination via Extremely Simple Instructions&lt;br&gt;
+&lt;s</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="大模型" scheme="https://blog.marquis.eu.org/tags/%E5%A4%A7%E6%A8%A1%E5%9E%8B/"/>
+    
+    <category term="论文笔记" scheme="https://blog.marquis.eu.org/tags/%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="多模态" scheme="https://blog.marquis.eu.org/tags/%E5%A4%9A%E6%A8%A1%E6%80%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【论文笔记】Towards Online Continuous Sign Language Recognition and Translation</title>
+    <link href="https://blog.marquis.eu.org/posts/b8e008e2/"/>
+    <id>https://blog.marquis.eu.org/posts/b8e008e2/</id>
+    <published>2024-11-30T10:29:12.000Z</published>
+    <updated>2025-06-01T08:31:02.389Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;基本信息&quot;&gt;基本信息&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;: Towards Online Continuous Sign Language Recognition and Translation&lt;br&gt;
+&lt;strong&gt;作者&lt;/strong&gt;:</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="论文笔记" scheme="https://blog.marquis.eu.org/tags/%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="手语翻译" scheme="https://blog.marquis.eu.org/tags/%E6%89%8B%E8%AF%AD%E7%BF%BB%E8%AF%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【论文笔记】Number it: Temporal Grounding Videos like Flipping Manga</title>
+    <link href="https://blog.marquis.eu.org/posts/3775436c/"/>
+    <id>https://blog.marquis.eu.org/posts/3775436c/</id>
+    <published>2024-11-24T10:45:20.000Z</published>
+    <updated>2025-06-01T08:31:02.381Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;基本信息&quot;&gt;基本信息&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;: Number it: Temporal Grounding Videos like Flipping Manga&lt;br&gt;
+&lt;strong&gt;作者&lt;/strong&gt;: Yongliang </summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="大模型" scheme="https://blog.marquis.eu.org/tags/%E5%A4%A7%E6%A8%A1%E5%9E%8B/"/>
+    
+    <category term="论文笔记" scheme="https://blog.marquis.eu.org/tags/%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="多模态" scheme="https://blog.marquis.eu.org/tags/%E5%A4%9A%E6%A8%A1%E6%80%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【论文笔记】Improved Baselines with Visual Instruction Tuning</title>
+    <link href="https://blog.marquis.eu.org/posts/d7df6f6b/"/>
+    <id>https://blog.marquis.eu.org/posts/d7df6f6b/</id>
+    <published>2024-11-24T09:57:47.000Z</published>
+    <updated>2025-06-01T08:31:02.360Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;基本信息&quot;&gt;基本信息&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;: Improved Baselines with Visual Instruction Tuning&lt;br&gt;
+&lt;strong&gt;作者&lt;/strong&gt;: Haotian Liu, Chun</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="大模型" scheme="https://blog.marquis.eu.org/tags/%E5%A4%A7%E6%A8%A1%E5%9E%8B/"/>
+    
+    <category term="论文笔记" scheme="https://blog.marquis.eu.org/tags/%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="多模态" scheme="https://blog.marquis.eu.org/tags/%E5%A4%9A%E6%A8%A1%E6%80%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【论文笔记】Video-LLaVA: Learning United Visual Representation by Alignment Before Projection</title>
+    <link href="https://blog.marquis.eu.org/posts/df97badf/"/>
+    <id>https://blog.marquis.eu.org/posts/df97badf/</id>
+    <published>2024-11-24T08:32:39.000Z</published>
+    <updated>2025-06-01T08:31:02.392Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;基本信息&quot;&gt;基本信息&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;: Video-LLaVA: Learning United Visual Representation by Alignment Before Projection&lt;br&gt;
+&lt;stron</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="大模型" scheme="https://blog.marquis.eu.org/tags/%E5%A4%A7%E6%A8%A1%E5%9E%8B/"/>
+    
+    <category term="论文笔记" scheme="https://blog.marquis.eu.org/tags/%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="多模态" scheme="https://blog.marquis.eu.org/tags/%E5%A4%9A%E6%A8%A1%E6%80%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【论文笔记】LLaVA-o1: Let Vision Language Models Reason Step-by-Step</title>
+    <link href="https://blog.marquis.eu.org/posts/efaddb6f/"/>
+    <id>https://blog.marquis.eu.org/posts/efaddb6f/</id>
+    <published>2024-11-23T12:05:34.000Z</published>
+    <updated>2025-06-01T08:31:02.366Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;基本信息&quot;&gt;基本信息&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;: LLaVA-o1: Let Vision Language Models Reason Step-by-Step&lt;br&gt;
+&lt;strong&gt;作者&lt;/strong&gt;: Guowei Xu,</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="大模型" scheme="https://blog.marquis.eu.org/tags/%E5%A4%A7%E6%A8%A1%E5%9E%8B/"/>
+    
+    <category term="论文笔记" scheme="https://blog.marquis.eu.org/tags/%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="多模态" scheme="https://blog.marquis.eu.org/tags/%E5%A4%9A%E6%A8%A1%E6%80%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【论文笔记】BlueLM-V-3B: Algorithm and System Co-Design for Multimodal Large Language Models on Mobile Devices</title>
+    <link href="https://blog.marquis.eu.org/posts/2b8bbf21/"/>
+    <id>https://blog.marquis.eu.org/posts/2b8bbf21/</id>
+    <published>2024-11-23T08:37:38.000Z</published>
+    <updated>2025-06-01T08:31:02.335Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;基本信息&quot;&gt;基本信息&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;: BlueLM-V-3B: Algorithm and System Co-Design for Multimodal Large Language Models on Mobile D</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="大模型" scheme="https://blog.marquis.eu.org/tags/%E5%A4%A7%E6%A8%A1%E5%9E%8B/"/>
+    
+    <category term="论文笔记" scheme="https://blog.marquis.eu.org/tags/%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="多模态" scheme="https://blog.marquis.eu.org/tags/%E5%A4%9A%E6%A8%A1%E6%80%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【论文笔记】Improving Gloss-free Sign Language Translation by Reducing Representation Density</title>
+    <link href="https://blog.marquis.eu.org/posts/a0482860/"/>
+    <id>https://blog.marquis.eu.org/posts/a0482860/</id>
+    <published>2024-11-18T13:10:15.000Z</published>
+    <updated>2025-06-01T08:31:02.361Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;基本信息&quot;&gt;基本信息&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;: Improving Gloss-free Sign Language Translation by Reducing Representation Density&lt;br&gt;
+&lt;stron</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="大模型" scheme="https://blog.marquis.eu.org/tags/%E5%A4%A7%E6%A8%A1%E5%9E%8B/"/>
+    
+    <category term="论文笔记" scheme="https://blog.marquis.eu.org/tags/%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="手语翻译" scheme="https://blog.marquis.eu.org/tags/%E6%89%8B%E8%AF%AD%E7%BF%BB%E8%AF%91/"/>
+    
+    <category term="多模态" scheme="https://blog.marquis.eu.org/tags/%E5%A4%9A%E6%A8%A1%E6%80%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【论文笔记】LLaMA-VID: An Image is Worth 2 Tokens in Large Language Models</title>
+    <link href="https://blog.marquis.eu.org/posts/3d8b221/"/>
+    <id>https://blog.marquis.eu.org/posts/3d8b221/</id>
+    <published>2024-11-17T11:43:16.000Z</published>
+    <updated>2025-06-01T08:31:02.366Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;基本信息&quot;&gt;基本信息&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;: LLaMA-VID: An Image is Worth 2 Tokens in Large Language Models&lt;br&gt;
+&lt;strong&gt;作者&lt;/strong&gt;: Yanw</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="大模型" scheme="https://blog.marquis.eu.org/tags/%E5%A4%A7%E6%A8%A1%E5%9E%8B/"/>
+    
+    <category term="论文笔记" scheme="https://blog.marquis.eu.org/tags/%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="多模态" scheme="https://blog.marquis.eu.org/tags/%E5%A4%9A%E6%A8%A1%E6%80%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【论文笔记】P-Tuning v2: Prompt Tuning Can Be Comparable to Fine-tuning Universally Across Scales and Tasks</title>
+    <link href="https://blog.marquis.eu.org/posts/6fa7adb/"/>
+    <id>https://blog.marquis.eu.org/posts/6fa7adb/</id>
+    <published>2024-11-17T09:43:51.000Z</published>
+    <updated>2025-06-01T08:31:02.382Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;基本信息&quot;&gt;基本信息&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;: P-Tuning v2: Prompt Tuning Can Be Comparable to Fine-tuning Universally Across Scales and Ta</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="大模型" scheme="https://blog.marquis.eu.org/tags/%E5%A4%A7%E6%A8%A1%E5%9E%8B/"/>
+    
+    <category term="论文笔记" scheme="https://blog.marquis.eu.org/tags/%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="微调" scheme="https://blog.marquis.eu.org/tags/%E5%BE%AE%E8%B0%83/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【论文笔记】LoRA: Low-Rank Adaptation of Large Language Models</title>
+    <link href="https://blog.marquis.eu.org/posts/655bfe1d/"/>
+    <id>https://blog.marquis.eu.org/posts/655bfe1d/</id>
+    <published>2024-11-17T09:05:32.000Z</published>
+    <updated>2025-06-01T08:31:02.373Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;基本信息&quot;&gt;基本信息&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;: LoRA: Low-Rank Adaptation of Large Language Models&lt;br&gt;
+&lt;strong&gt;作者&lt;/strong&gt;: Edward J. Hu, Ye</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="大模型" scheme="https://blog.marquis.eu.org/tags/%E5%A4%A7%E6%A8%A1%E5%9E%8B/"/>
+    
+    <category term="论文笔记" scheme="https://blog.marquis.eu.org/tags/%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="微调" scheme="https://blog.marquis.eu.org/tags/%E5%BE%AE%E8%B0%83/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【论文笔记】Towards Privacy-Aware Sign Language Translation at Scale</title>
+    <link href="https://blog.marquis.eu.org/posts/730fb5e9/"/>
+    <id>https://blog.marquis.eu.org/posts/730fb5e9/</id>
+    <published>2024-11-16T09:39:08.000Z</published>
+    <updated>2025-06-01T08:31:02.390Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;基本信息&quot;&gt;基本信息&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;: Towards Privacy-Aware Sign Language Translation at Scale&lt;br&gt;
+&lt;strong&gt;作者&lt;/strong&gt;: Phillip Ru</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="大模型" scheme="https://blog.marquis.eu.org/tags/%E5%A4%A7%E6%A8%A1%E5%9E%8B/"/>
+    
+    <category term="论文笔记" scheme="https://blog.marquis.eu.org/tags/%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="手语翻译" scheme="https://blog.marquis.eu.org/tags/%E6%89%8B%E8%AF%AD%E7%BF%BB%E8%AF%91/"/>
+    
+    <category term="多模态" scheme="https://blog.marquis.eu.org/tags/%E5%A4%9A%E6%A8%A1%E6%80%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【论文笔记】SCOPE: Sign Language Contextual Processing with Embedding from LLMs</title>
+    <link href="https://blog.marquis.eu.org/posts/56faaad6/"/>
+    <id>https://blog.marquis.eu.org/posts/56faaad6/</id>
+    <published>2024-11-16T08:46:34.000Z</published>
+    <updated>2025-06-01T08:31:02.385Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;基本信息&quot;&gt;基本信息&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;: SCOPE: Sign Language Contextual Processing with Embedding from LLMs&lt;br&gt;
+&lt;strong&gt;作者&lt;/strong&gt;:</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="大模型" scheme="https://blog.marquis.eu.org/tags/%E5%A4%A7%E6%A8%A1%E5%9E%8B/"/>
+    
+    <category term="论文笔记" scheme="https://blog.marquis.eu.org/tags/%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="手语翻译" scheme="https://blog.marquis.eu.org/tags/%E6%89%8B%E8%AF%AD%E7%BF%BB%E8%AF%91/"/>
+    
+    <category term="多模态" scheme="https://blog.marquis.eu.org/tags/%E5%A4%9A%E6%A8%A1%E6%80%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【论文笔记】Prefix-Tuning: Optimizing Continuous Prompts for Generation</title>
+    <link href="https://blog.marquis.eu.org/posts/9a1d9f01/"/>
+    <id>https://blog.marquis.eu.org/posts/9a1d9f01/</id>
+    <published>2024-11-10T12:25:23.000Z</published>
+    <updated>2025-06-01T08:31:02.384Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;基本信息&quot;&gt;基本信息&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;: Prefix-Tuning: Optimizing Continuous Prompts for Generation&lt;br&gt;
+&lt;strong&gt;作者&lt;/strong&gt;: Xiang L</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="大模型" scheme="https://blog.marquis.eu.org/tags/%E5%A4%A7%E6%A8%A1%E5%9E%8B/"/>
+    
+    <category term="论文笔记" scheme="https://blog.marquis.eu.org/tags/%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="微调" scheme="https://blog.marquis.eu.org/tags/%E5%BE%AE%E8%B0%83/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【论文笔记】The Power of Scale for Parameter-Efficient Prompt Tuning</title>
+    <link href="https://blog.marquis.eu.org/posts/62ccc884/"/>
+    <id>https://blog.marquis.eu.org/posts/62ccc884/</id>
+    <published>2024-11-10T11:58:25.000Z</published>
+    <updated>2025-06-01T08:31:02.388Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;基本信息&quot;&gt;基本信息&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;: The Power of Scale for Parameter-Efficient Prompt Tuning&lt;br&gt;
+&lt;strong&gt;作者&lt;/strong&gt;: Brian Lest</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="大模型" scheme="https://blog.marquis.eu.org/tags/%E5%A4%A7%E6%A8%A1%E5%9E%8B/"/>
+    
+    <category term="论文笔记" scheme="https://blog.marquis.eu.org/tags/%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="微调" scheme="https://blog.marquis.eu.org/tags/%E5%BE%AE%E8%B0%83/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【论文笔记】Parameter-Efficient Transfer Learning for NLP</title>
+    <link href="https://blog.marquis.eu.org/posts/61cf4ab0/"/>
+    <id>https://blog.marquis.eu.org/posts/61cf4ab0/</id>
+    <published>2024-11-10T11:24:40.000Z</published>
+    <updated>2025-06-01T08:31:02.382Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;基本信息&quot;&gt;基本信息&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;: Parameter-Efficient Transfer Learning for NLP&lt;br&gt;
+&lt;strong&gt;作者&lt;/strong&gt;: Neil Houlsby, Andrei </summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="大模型" scheme="https://blog.marquis.eu.org/tags/%E5%A4%A7%E6%A8%A1%E5%9E%8B/"/>
+    
+    <category term="论文笔记" scheme="https://blog.marquis.eu.org/tags/%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="微调" scheme="https://blog.marquis.eu.org/tags/%E5%BE%AE%E8%B0%83/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【论文笔记】Wings: Learning Multimodal LLMs without Text-only Forgetting</title>
+    <link href="https://blog.marquis.eu.org/posts/1fa7cce/"/>
+    <id>https://blog.marquis.eu.org/posts/1fa7cce/</id>
+    <published>2024-11-09T13:37:48.000Z</published>
+    <updated>2025-06-01T08:31:02.395Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;基本信息&quot;&gt;基本信息&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;: Wings: Learning Multimodal LLMs without Text-only Forgetting&lt;br&gt;
+&lt;strong&gt;作者&lt;/strong&gt;: Yi-Kai</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="大模型" scheme="https://blog.marquis.eu.org/tags/%E5%A4%A7%E6%A8%A1%E5%9E%8B/"/>
+    
+    <category term="论文笔记" scheme="https://blog.marquis.eu.org/tags/%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="多模态" scheme="https://blog.marquis.eu.org/tags/%E5%A4%9A%E6%A8%A1%E6%80%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【论文笔记】VCoder: Versatile Vision Encoders for Multimodal Large Language Models</title>
+    <link href="https://blog.marquis.eu.org/posts/a0a22d1/"/>
+    <id>https://blog.marquis.eu.org/posts/a0a22d1/</id>
+    <published>2024-11-08T07:50:01.000Z</published>
+    <updated>2025-06-01T08:31:02.391Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;基本信息&quot;&gt;基本信息&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;: VCoder: Versatile Vision Encoders for Multimodal Large Language Models&lt;br&gt;
+&lt;strong&gt;作者&lt;/stron</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="大模型" scheme="https://blog.marquis.eu.org/tags/%E5%A4%A7%E6%A8%A1%E5%9E%8B/"/>
+    
+    <category term="论文笔记" scheme="https://blog.marquis.eu.org/tags/%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="多模态" scheme="https://blog.marquis.eu.org/tags/%E5%A4%9A%E6%A8%A1%E6%80%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Tmux 使用教程</title>
+    <link href="https://blog.marquis.eu.org/posts/176a23be/"/>
+    <id>https://blog.marquis.eu.org/posts/176a23be/</id>
+    <published>2024-11-08T03:51:04.000Z</published>
+    <updated>2025-06-01T08:31:02.321Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;作者: 阮一峰&lt;br&gt;
+链接: &lt;a href=&quot;https://www.ruanyifeng.com/blog/2019/10/tmux.html&quot;&gt;https://www.ruanyifeng.com/blog/2019/10/tmux.html&lt;/a&gt;&lt;br&gt;
+著作权</summary>
+      
+    
+    
+    
+    <category term="实用教程" scheme="https://blog.marquis.eu.org/categories/%E5%AE%9E%E7%94%A8%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="Linux" scheme="https://blog.marquis.eu.org/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【论文笔记】Dense Connector for MLLMs</title>
+    <link href="https://blog.marquis.eu.org/posts/40a22a64/"/>
+    <id>https://blog.marquis.eu.org/posts/40a22a64/</id>
+    <published>2024-11-03T11:38:40.000Z</published>
+    <updated>2025-06-01T08:31:02.350Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;基本信息&quot;&gt;基本信息&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;: Dense Connector for MLLMs&lt;br&gt;
+&lt;strong&gt;作者&lt;/strong&gt;: Huanjin Yao, Wenhao Wu, Taojiannan Yang, </summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="大模型" scheme="https://blog.marquis.eu.org/tags/%E5%A4%A7%E6%A8%A1%E5%9E%8B/"/>
+    
+    <category term="论文笔记" scheme="https://blog.marquis.eu.org/tags/%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="多模态" scheme="https://blog.marquis.eu.org/tags/%E5%A4%9A%E6%A8%A1%E6%80%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【论文笔记】Attention Prompting on Image for Large  Vision-Language Models</title>
+    <link href="https://blog.marquis.eu.org/posts/ac77c47b/"/>
+    <id>https://blog.marquis.eu.org/posts/ac77c47b/</id>
+    <published>2024-11-02T09:10:35.000Z</published>
+    <updated>2025-06-01T08:31:02.329Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;基本信息&quot;&gt;基本信息&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;: Attention Prompting on Image for Large  Vision-Language Models&lt;br&gt;
+&lt;strong&gt;作者&lt;/strong&gt;: Runp</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="大模型" scheme="https://blog.marquis.eu.org/tags/%E5%A4%A7%E6%A8%A1%E5%9E%8B/"/>
+    
+    <category term="论文笔记" scheme="https://blog.marquis.eu.org/tags/%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="多模态" scheme="https://blog.marquis.eu.org/tags/%E5%A4%9A%E6%A8%A1%E6%80%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【论文笔记】Token Turing Machines</title>
+    <link href="https://blog.marquis.eu.org/posts/8ed3f9a3/"/>
+    <id>https://blog.marquis.eu.org/posts/8ed3f9a3/</id>
+    <published>2024-11-02T07:04:28.000Z</published>
+    <updated>2025-06-01T08:31:02.388Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;基本信息&quot;&gt;基本信息&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;: Token Turing Machines&lt;br&gt;
+&lt;strong&gt;作者&lt;/strong&gt;: Michael S. Ryoo, Keerthana Gopalakrishnan, Ku</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="深度学习" scheme="https://blog.marquis.eu.org/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/"/>
+    
+    <category term="论文笔记" scheme="https://blog.marquis.eu.org/tags/%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【论文笔记】Gloss-free Sign Language Translation: Improving from Visual-Language Pretraining</title>
+    <link href="https://blog.marquis.eu.org/posts/a9963ffe/"/>
+    <id>https://blog.marquis.eu.org/posts/a9963ffe/</id>
+    <published>2024-10-29T11:56:09.000Z</published>
+    <updated>2025-06-01T08:31:02.359Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;基本信息&quot;&gt;基本信息&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;: Gloss-free Sign Language Translation: Improving from Visual-Language Pretraining&lt;br&gt;
+&lt;strong</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="论文笔记" scheme="https://blog.marquis.eu.org/tags/%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="手语翻译" scheme="https://blog.marquis.eu.org/tags/%E6%89%8B%E8%AF%AD%E7%BF%BB%E8%AF%91/"/>
+    
+    <category term="多模态" scheme="https://blog.marquis.eu.org/tags/%E5%A4%9A%E6%A8%A1%E6%80%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【论文笔记】C$^2$RL: Content and Context Representation Learning for Gloss-free Sign Language Translation and Retrieval</title>
+    <link href="https://blog.marquis.eu.org/posts/ecea0090/"/>
+    <id>https://blog.marquis.eu.org/posts/ecea0090/</id>
+    <published>2024-10-29T11:24:41.000Z</published>
+    <updated>2025-06-01T08:31:02.336Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;基本信息&quot;&gt;基本信息&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;: C&lt;span class=&quot;katex&quot;&gt;&lt;span class=&quot;katex-mathml&quot;&gt;&lt;math xmlns=&quot;http://www.w3.org/1998/Math/Mat</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="论文笔记" scheme="https://blog.marquis.eu.org/tags/%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="手语翻译" scheme="https://blog.marquis.eu.org/tags/%E6%89%8B%E8%AF%AD%E7%BF%BB%E8%AF%91/"/>
+    
+    <category term="多模态" scheme="https://blog.marquis.eu.org/tags/%E5%A4%9A%E6%A8%A1%E6%80%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【论文笔记】Perceiver: General Perception with Iterative Attention</title>
+    <link href="https://blog.marquis.eu.org/posts/d0179da3/"/>
+    <id>https://blog.marquis.eu.org/posts/d0179da3/</id>
+    <published>2024-10-27T12:04:59.000Z</published>
+    <updated>2025-06-01T08:31:02.383Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;基本信息&quot;&gt;基本信息&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;: Perceiver: General Perception with Iterative Attention&lt;br&gt;
+&lt;strong&gt;作者&lt;/strong&gt;: Andrew Jaegl</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="论文笔记" scheme="https://blog.marquis.eu.org/tags/%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="多模态" scheme="https://blog.marquis.eu.org/tags/%E5%A4%9A%E6%A8%A1%E6%80%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【论文笔记】xGen-MM (BLIP-3): A Family of Open Large Multimodal Models</title>
+    <link href="https://blog.marquis.eu.org/posts/f082264/"/>
+    <id>https://blog.marquis.eu.org/posts/f082264/</id>
+    <published>2024-10-27T08:47:28.000Z</published>
+    <updated>2025-06-01T08:31:02.398Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;基本信息&quot;&gt;基本信息&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;: xGen-MM (BLIP-3): A Family of Open Large Multimodal Models&lt;br&gt;
+&lt;strong&gt;作者&lt;/strong&gt;: Le Xue, </summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="大模型" scheme="https://blog.marquis.eu.org/tags/%E5%A4%A7%E6%A8%A1%E5%9E%8B/"/>
+    
+    <category term="论文笔记" scheme="https://blog.marquis.eu.org/tags/%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="多模态" scheme="https://blog.marquis.eu.org/tags/%E5%A4%9A%E6%A8%A1%E6%80%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【论文笔记】xGen-MM-Vid (BLIP-3-Video): You Only Need 32 Tokens to Represent a Video Even in VLMs</title>
+    <link href="https://blog.marquis.eu.org/posts/b260ff32/"/>
+    <id>https://blog.marquis.eu.org/posts/b260ff32/</id>
+    <published>2024-10-24T12:40:33.000Z</published>
+    <updated>2025-06-01T08:31:02.397Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;基本信息&quot;&gt;基本信息&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;: xGen-MM-Vid (BLIP-3-Video): You Only Need 32 Tokens to Represent a Video Even in VLMs&lt;br&gt;
+&lt;s</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="大模型" scheme="https://blog.marquis.eu.org/tags/%E5%A4%A7%E6%A8%A1%E5%9E%8B/"/>
+    
+    <category term="论文笔记" scheme="https://blog.marquis.eu.org/tags/%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="多模态" scheme="https://blog.marquis.eu.org/tags/%E5%A4%9A%E6%A8%A1%E6%80%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【论文笔记】MLSLT: Towards Multilingual Sign Language Translation</title>
+    <link href="https://blog.marquis.eu.org/posts/35269db0/"/>
+    <id>https://blog.marquis.eu.org/posts/35269db0/</id>
+    <published>2024-10-22T11:57:02.000Z</published>
+    <updated>2025-06-01T08:31:02.377Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;基本信息&quot;&gt;基本信息&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;: MLSLT: Towards Multilingual Sign Language Translation&lt;br&gt;
+&lt;strong&gt;作者&lt;/strong&gt;: Aoxiong Yin, </summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="论文笔记" scheme="https://blog.marquis.eu.org/tags/%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="手语翻译" scheme="https://blog.marquis.eu.org/tags/%E6%89%8B%E8%AF%AD%E7%BF%BB%E8%AF%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【论文笔记】X-Former: Unifying Contrastive and Reconstruction Learning for MLLMs</title>
+    <link href="https://blog.marquis.eu.org/posts/f4f8bcfe/"/>
+    <id>https://blog.marquis.eu.org/posts/f4f8bcfe/</id>
+    <published>2024-10-20T11:19:06.000Z</published>
+    <updated>2025-06-01T08:31:02.396Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;基本信息&quot;&gt;基本信息&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;: X-Former: Unifying Contrastive and Reconstruction Learning for MLLMs&lt;br&gt;
+&lt;strong&gt;作者&lt;/strong&gt;</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="大模型" scheme="https://blog.marquis.eu.org/tags/%E5%A4%A7%E6%A8%A1%E5%9E%8B/"/>
+    
+    <category term="论文笔记" scheme="https://blog.marquis.eu.org/tags/%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="多模态" scheme="https://blog.marquis.eu.org/tags/%E5%A4%9A%E6%A8%A1%E6%80%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【论文笔记】VISTA: Visualized Text Embedding For Universal Multi-Modal Retrieval</title>
+    <link href="https://blog.marquis.eu.org/posts/9fd83c79/"/>
+    <id>https://blog.marquis.eu.org/posts/9fd83c79/</id>
+    <published>2024-10-20T08:49:52.000Z</published>
+    <updated>2025-06-01T08:31:02.391Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;基本信息&quot;&gt;基本信息&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;: VISTA: Visualized Text Embedding For Universal Multi-Modal Retrieval&lt;br&gt;
+&lt;strong&gt;作者&lt;/strong&gt;</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="论文笔记" scheme="https://blog.marquis.eu.org/tags/%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="多模态" scheme="https://blog.marquis.eu.org/tags/%E5%A4%9A%E6%A8%A1%E6%80%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【论文笔记】MMFuser: Multimodal Multi-Layer Feature Fuser for Fine-Grained Vision-Language Understanding</title>
+    <link href="https://blog.marquis.eu.org/posts/5b4b19e7/"/>
+    <id>https://blog.marquis.eu.org/posts/5b4b19e7/</id>
+    <published>2024-10-17T12:55:35.000Z</published>
+    <updated>2025-06-01T08:31:02.378Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;基本信息&quot;&gt;基本信息&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;: MMFuser: Multimodal Multi-Layer Feature Fuser for Fine-Grained Vision-Language Understanding</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="大模型" scheme="https://blog.marquis.eu.org/tags/%E5%A4%A7%E6%A8%A1%E5%9E%8B/"/>
+    
+    <category term="论文笔记" scheme="https://blog.marquis.eu.org/tags/%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="多模态" scheme="https://blog.marquis.eu.org/tags/%E5%A4%9A%E6%A8%A1%E6%80%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【论文笔记】Sign2GPT Leveraging Large Language Models for Gloss-Free Sign Language Translation</title>
+    <link href="https://blog.marquis.eu.org/posts/6e8639ba/"/>
+    <id>https://blog.marquis.eu.org/posts/6e8639ba/</id>
+    <published>2024-10-17T07:43:55.000Z</published>
+    <updated>2025-06-01T08:31:02.387Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;基本信息&quot;&gt;基本信息&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;: Sign2GPT Leveraging Large Language Models for Gloss-Free Sign Language Translation&lt;br&gt;
+&lt;stro</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="大模型" scheme="https://blog.marquis.eu.org/tags/%E5%A4%A7%E6%A8%A1%E5%9E%8B/"/>
+    
+    <category term="论文笔记" scheme="https://blog.marquis.eu.org/tags/%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="手语翻译" scheme="https://blog.marquis.eu.org/tags/%E6%89%8B%E8%AF%AD%E7%BF%BB%E8%AF%91/"/>
+    
+    <category term="多模态" scheme="https://blog.marquis.eu.org/tags/%E5%A4%9A%E6%A8%A1%E6%80%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【论文笔记】Fine-tuned CLIP Models are Efficient Video Learners</title>
+    <link href="https://blog.marquis.eu.org/posts/9920333/"/>
+    <id>https://blog.marquis.eu.org/posts/9920333/</id>
+    <published>2024-10-14T14:07:10.000Z</published>
+    <updated>2025-06-01T08:31:02.353Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;基本信息&quot;&gt;基本信息&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;: Fine-tuned CLIP Models are Efficient Video Learners&lt;br&gt;
+&lt;strong&gt;作者&lt;/strong&gt;: Hanoona Rasheed</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="论文笔记" scheme="https://blog.marquis.eu.org/tags/%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="多模态" scheme="https://blog.marquis.eu.org/tags/%E5%A4%9A%E6%A8%A1%E6%80%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【论文笔记】Factorized Learning Assisted with Large Language Model for Gloss-free Sign Language Translation</title>
+    <link href="https://blog.marquis.eu.org/posts/7197d88b/"/>
+    <id>https://blog.marquis.eu.org/posts/7197d88b/</id>
+    <published>2024-10-11T12:01:57.000Z</published>
+    <updated>2025-06-01T08:31:02.353Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;基本信息&quot;&gt;基本信息&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;: Factorized Learning Assisted with Large Language Model for Gloss-free Sign Language Translat</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="大模型" scheme="https://blog.marquis.eu.org/tags/%E5%A4%A7%E6%A8%A1%E5%9E%8B/"/>
+    
+    <category term="论文笔记" scheme="https://blog.marquis.eu.org/tags/%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="手语翻译" scheme="https://blog.marquis.eu.org/tags/%E6%89%8B%E8%AF%AD%E7%BF%BB%E8%AF%91/"/>
+    
+    <category term="多模态" scheme="https://blog.marquis.eu.org/tags/%E5%A4%9A%E6%A8%A1%E6%80%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【论文笔记】CLIP4Clip An empirical study of CLIP for end to end video clip retrieval and captioning</title>
+    <link href="https://blog.marquis.eu.org/posts/a9ae2eb5/"/>
+    <id>https://blog.marquis.eu.org/posts/a9ae2eb5/</id>
+    <published>2024-10-10T13:00:06.000Z</published>
+    <updated>2025-06-01T08:31:02.344Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;基本信息&quot;&gt;基本信息&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;: CLIP4Clip An empirical study of CLIP for end to end video clip retrieval and captioning&lt;br&gt;
+</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="论文笔记" scheme="https://blog.marquis.eu.org/tags/%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="多模态" scheme="https://blog.marquis.eu.org/tags/%E5%A4%9A%E6%A8%A1%E6%80%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【论文笔记】VideoLLaMA 2: Advancing Spatial-Temporal Modeling and Audio Understanding in Video-LLMs</title>
+    <link href="https://blog.marquis.eu.org/posts/651d2be2/"/>
+    <id>https://blog.marquis.eu.org/posts/651d2be2/</id>
+    <published>2024-10-08T09:08:19.000Z</published>
+    <updated>2025-06-01T08:31:02.392Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;基本信息&quot;&gt;基本信息&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;: VideoLLaMA 2: Advancing Spatial-Temporal Modeling and Audio Understanding in Video-LLMs&lt;br&gt;
+</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="大模型" scheme="https://blog.marquis.eu.org/tags/%E5%A4%A7%E6%A8%A1%E5%9E%8B/"/>
+    
+    <category term="论文笔记" scheme="https://blog.marquis.eu.org/tags/%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="多模态" scheme="https://blog.marquis.eu.org/tags/%E5%A4%9A%E6%A8%A1%E6%80%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【论文笔记】Flamingo: a Visual Language Model for Few-Shot Learning</title>
+    <link href="https://blog.marquis.eu.org/posts/f56487a4/"/>
+    <id>https://blog.marquis.eu.org/posts/f56487a4/</id>
+    <published>2024-09-30T15:27:10.000Z</published>
+    <updated>2025-06-01T08:31:02.356Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;基本信息&quot;&gt;基本信息&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;: Flamingo: a Visual Language Model for Few-Shot Learning&lt;br&gt;
+&lt;strong&gt;作者&lt;/strong&gt;: Jean-Baptis</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="大模型" scheme="https://blog.marquis.eu.org/tags/%E5%A4%A7%E6%A8%A1%E5%9E%8B/"/>
+    
+    <category term="论文笔记" scheme="https://blog.marquis.eu.org/tags/%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="多模态" scheme="https://blog.marquis.eu.org/tags/%E5%A4%9A%E6%A8%A1%E6%80%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【论文笔记】Visual Instruction Tuning</title>
+    <link href="https://blog.marquis.eu.org/posts/4abaf943/"/>
+    <id>https://blog.marquis.eu.org/posts/4abaf943/</id>
+    <published>2024-09-29T08:08:31.000Z</published>
+    <updated>2025-06-01T08:31:02.394Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;基本信息&quot;&gt;基本信息&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;: Visual Instruction Tuning&lt;br&gt;
+&lt;strong&gt;作者&lt;/strong&gt;: Haotian Liu, Chunyuan Li, Qingyang Wu, Yo</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="大模型" scheme="https://blog.marquis.eu.org/tags/%E5%A4%A7%E6%A8%A1%E5%9E%8B/"/>
+    
+    <category term="论文笔记" scheme="https://blog.marquis.eu.org/tags/%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="多模态" scheme="https://blog.marquis.eu.org/tags/%E5%A4%9A%E6%A8%A1%E6%80%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【论文笔记】Sign Language Transformers: Joint End-to-end Sign Language Recognition and Translation</title>
+    <link href="https://blog.marquis.eu.org/posts/1fbcefa0/"/>
+    <id>https://blog.marquis.eu.org/posts/1fbcefa0/</id>
+    <published>2024-09-25T07:18:43.000Z</published>
+    <updated>2025-06-01T08:31:02.386Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;基本信息&quot;&gt;基本信息&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;: Sign Language Transformers: Joint End-to-end Sign Language Recognition and Translation&lt;br&gt;
+&lt;</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="论文笔记" scheme="https://blog.marquis.eu.org/tags/%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="手语翻译" scheme="https://blog.marquis.eu.org/tags/%E6%89%8B%E8%AF%AD%E7%BF%BB%E8%AF%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>BPE算法介绍：解决自然语言处理中的分词难题</title>
+    <link href="https://blog.marquis.eu.org/posts/e022b932/"/>
+    <id>https://blog.marquis.eu.org/posts/e022b932/</id>
+    <published>2024-07-26T07:58:40.000Z</published>
+    <updated>2025-06-01T08:31:02.312Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;引言&quot;&gt;引言&lt;/h2&gt;
+&lt;p&gt;在自然语言处理(NLP)领域，如何高效地将连续的文本序列分割成有意义的单元是一项基础且重要的任务。传统的基于规则的方法或者统计方法在处理大规模数据时往往面临着效率低下和灵活性不足的问题。近年来，&lt;strong&gt;Byte Pair En</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="大模型" scheme="https://blog.marquis.eu.org/tags/%E5%A4%A7%E6%A8%A1%E5%9E%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>大模型常用推理参数工作原理</title>
+    <link href="https://blog.marquis.eu.org/posts/a9479bc3/"/>
+    <id>https://blog.marquis.eu.org/posts/a9479bc3/</id>
+    <published>2024-06-09T10:13:34.000Z</published>
+    <updated>2025-06-01T08:31:02.399Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;do-sample&quot;&gt;do_sample&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;do_sample&lt;/code&gt; 参数控制是否使用采样方法生成输出。当 &lt;code&gt;do_sample=True&lt;/code&gt; 时，模型会根据下一个 token 的概率分布进行采样；当 &lt;cod</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="大模型" scheme="https://blog.marquis.eu.org/tags/%E5%A4%A7%E6%A8%A1%E5%9E%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>赛事分享 Amazon KDD Cup 2024: Multi-Task Online Shopping Challenge for LLMs</title>
+    <link href="https://blog.marquis.eu.org/posts/3a5e2d59/"/>
+    <id>https://blog.marquis.eu.org/posts/3a5e2d59/</id>
+    <published>2024-03-23T14:02:08.000Z</published>
+    <updated>2025-06-01T08:31:02.404Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;strong&gt;赛事链接&lt;/strong&gt;：&lt;a href=&quot;https://www.aicrowd.com/challenges/amazon-kdd-cup-2024-multi-task-online-shopping-challenge-for-llms&quot;&gt;http</summary>
+      
+    
+    
+    
+    <category term="资源分享" scheme="https://blog.marquis.eu.org/categories/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="深度学习" scheme="https://blog.marquis.eu.org/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>基于 Transformer 的中文对联生成器</title>
+    <link href="https://blog.marquis.eu.org/posts/707a61a4/"/>
+    <id>https://blog.marquis.eu.org/posts/707a61a4/</id>
+    <published>2024-02-28T07:42:32.000Z</published>
+    <updated>2025-06-01T08:31:02.399Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;简介-Introduction&quot;&gt;简介(Introduction)&lt;/h2&gt;
+&lt;p&gt;本项目是一个&lt;strong&gt;基于 Transformer 的中文对联生成器&lt;/strong&gt;，使用 PyTorch 构建模型，使用 Gradio 构建 Web UI。&lt;/p&gt;
+&lt;p</summary>
+      
+    
+    
+    
+    <category term="实用教程" scheme="https://blog.marquis.eu.org/categories/%E5%AE%9E%E7%94%A8%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="深度学习" scheme="https://blog.marquis.eu.org/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Pytorch 自用 Scheduler 分享</title>
+    <link href="https://blog.marquis.eu.org/posts/2e3746c6/"/>
+    <id>https://blog.marquis.eu.org/posts/2e3746c6/</id>
+    <published>2024-02-24T05:32:07.000Z</published>
+    <updated>2025-06-01T08:31:02.320Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;Scheduler&quot;&gt;Scheduler&lt;/h2&gt;
+&lt;h3 id=&quot;Warm-up-CosineAnnealingLR&quot;&gt;Warm-up + CosineAnnealingLR&lt;/h3&gt;
+&lt;figure class=&quot;highlight python&quot;&gt;&lt;tabl</summary>
+      
+    
+    
+    
+    <category term="资源分享" scheme="https://blog.marquis.eu.org/categories/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="深度学习" scheme="https://blog.marquis.eu.org/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>变分自编码器（VAE）PyTorch Lightning 实现</title>
+    <link href="https://blog.marquis.eu.org/posts/28f2c1f8/"/>
+    <id>https://blog.marquis.eu.org/posts/28f2c1f8/</id>
+    <published>2024-02-16T06:30:31.000Z</published>
+    <updated>2025-06-01T08:31:02.398Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;VAE-简介&quot;&gt;VAE 简介&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;变分自编码器&lt;/strong&gt;（Variational Autoencoder，VAE）是一种深度学习中的生成模型，它结合了自编码器（Autoencoder, AE）和概率建模的思想，在无监督学习环境中</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="深度学习" scheme="https://blog.marquis.eu.org/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>DataCastle 员工离职预测 Baseline</title>
+    <link href="https://blog.marquis.eu.org/posts/d4035d01/"/>
+    <id>https://blog.marquis.eu.org/posts/d4035d01/</id>
+    <published>2024-02-04T09:58:08.000Z</published>
+    <updated>2025-06-01T08:31:02.314Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;比赛介绍&quot;&gt;比赛介绍&lt;/h2&gt;
+&lt;h3 id=&quot;比赛链接&quot;&gt;比赛链接&lt;/h3&gt;
+&lt;p&gt;DataCastle 员工离职预测：&lt;a href=&quot;https://challenge.datacastle.cn/v3/cmptDetail.html?id=342&quot;&gt;htt</summary>
+      
+    
+    
+    
+    <category term="实用教程" scheme="https://blog.marquis.eu.org/categories/%E5%AE%9E%E7%94%A8%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="机器学习" scheme="https://blog.marquis.eu.org/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>LaTeX 文本对齐：ragged2e 宏包</title>
+    <link href="https://blog.marquis.eu.org/posts/8fa9b7ab/"/>
+    <id>https://blog.marquis.eu.org/posts/8fa9b7ab/</id>
+    <published>2024-01-31T15:34:30.000Z</published>
+    <updated>2025-06-01T08:31:02.316Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;ragged2e-宏包简介&quot;&gt;ragged2e 宏包简介&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;ragged2e&lt;/strong&gt; 是一个 LaTeX 宏包，它为 LaTeX 文档提供了一种改进的、更加灵活的文本对齐方式，特别是对于那些需要避免完全齐行对齐（justif</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="LaTeX" scheme="https://blog.marquis.eu.org/tags/LaTeX/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>机器学习 低代码 ML：PyCaret 的使用</title>
+    <link href="https://blog.marquis.eu.org/posts/8fc96bbe/"/>
+    <id>https://blog.marquis.eu.org/posts/8fc96bbe/</id>
+    <published>2024-01-31T15:06:15.000Z</published>
+    <updated>2025-06-01T08:31:02.402Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;PyCaret-简介&quot;&gt;PyCaret 简介&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;PyCaret&lt;/strong&gt; 是一个开源的低代码 Python 库，专注于简化机器学习（ML）工作流程并加速实验过程。它特别适用于数据科学家、分析师和开发人员，通过减少实现 ML 解</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="机器学习" scheme="https://blog.marquis.eu.org/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Pandas 并行计算：Pandarallel 的使用</title>
+    <link href="https://blog.marquis.eu.org/posts/b7f64c96/"/>
+    <id>https://blog.marquis.eu.org/posts/b7f64c96/</id>
+    <published>2024-01-30T09:23:19.000Z</published>
+    <updated>2025-06-01T08:31:02.317Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;Pandarallel-简介&quot;&gt;Pandarallel 简介&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Pandarallel&lt;/strong&gt; 是一个 Python 库，设计用于简化并行处理在 Pandas DataFrame 上的操作，特别针对那些原本串行执行的 &lt;co</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="数据分析" scheme="https://blog.marquis.eu.org/tags/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/"/>
+    
+    <category term="Python" scheme="https://blog.marquis.eu.org/tags/Python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>机器学习 流形数据降维：UMAP 降维算法</title>
+    <link href="https://blog.marquis.eu.org/posts/895d4074/"/>
+    <id>https://blog.marquis.eu.org/posts/895d4074/</id>
+    <published>2024-01-30T09:23:08.000Z</published>
+    <updated>2025-06-01T08:31:02.403Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;UMAP-简介&quot;&gt;UMAP 简介&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;UMAP&lt;/strong&gt;（Uniform Manifold Approximation and Projection）是一种先进的非线性降维技术，用于将高维数据集转换为低维空间中的表示，同时尽可能</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="机器学习" scheme="https://blog.marquis.eu.org/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>大模型应用相关技术：RAG 与 Agent</title>
+    <link href="https://blog.marquis.eu.org/posts/51c4a048/"/>
+    <id>https://blog.marquis.eu.org/posts/51c4a048/</id>
+    <published>2024-01-29T09:24:25.000Z</published>
+    <updated>2025-06-01T08:31:02.400Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;RAG&quot;&gt;RAG&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;检索增强生成&lt;/strong&gt;（RAG, Retrieval-Augmented Generation）是一种自然语言处理（NLP）中的创新方法，它结合了信息检索（IR）和深度学习生成模型的优点，以提高文本生成任务</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="大模型" scheme="https://blog.marquis.eu.org/tags/%E5%A4%A7%E6%A8%A1%E5%9E%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>自然语言处理 TF-IDF</title>
+    <link href="https://blog.marquis.eu.org/posts/6d94a55b/"/>
+    <id>https://blog.marquis.eu.org/posts/6d94a55b/</id>
+    <published>2024-01-29T07:54:20.000Z</published>
+    <updated>2025-06-01T08:31:02.405Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;TF-IDF-简介&quot;&gt;TF-IDF 简介&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;TF-IDF&lt;/strong&gt;（Term Frequency-Inverse Document Frequency，词频-逆文档频率）是一种用于信息检索和文本挖掘的常用加权技术，它用于评估一</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="深度学习" scheme="https://blog.marquis.eu.org/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>LaTeX 多样列表：enumitem 宏包</title>
+    <link href="https://blog.marquis.eu.org/posts/afb3170d/"/>
+    <id>https://blog.marquis.eu.org/posts/afb3170d/</id>
+    <published>2024-01-28T12:42:26.000Z</published>
+    <updated>2025-06-01T08:31:02.316Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;enumitem-宏包简介&quot;&gt;enumitem 宏包简介&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;enumitem&lt;/code&gt; 宏包 是 LaTeX 中一个非常实用的工具，它提供了一种简单且灵活的方式来定制列表环境（包括无序列表 &lt;code&gt;itemize&lt;/code&gt;、有</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="LaTeX" scheme="https://blog.marquis.eu.org/tags/LaTeX/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>LaTeX 三线表：booktabs 宏包</title>
+    <link href="https://blog.marquis.eu.org/posts/34f95ec7/"/>
+    <id>https://blog.marquis.eu.org/posts/34f95ec7/</id>
+    <published>2024-01-28T12:19:21.000Z</published>
+    <updated>2025-06-01T08:31:02.315Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;booktabs-宏包简介&quot;&gt;booktabs 宏包简介&lt;/h2&gt;
+&lt;p&gt;LaTeX 宏包 &lt;code&gt;booktabs&lt;/code&gt; 由 &lt;strong&gt;David Carlisle&lt;/strong&gt; 开发，旨在提供一种专业、美观的方式来排版表格，特别适用于学术</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="LaTeX" scheme="https://blog.marquis.eu.org/tags/LaTeX/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【论文笔记】ImageNet Classification with Deep Convolutional</title>
+    <link href="https://blog.marquis.eu.org/posts/1d6602d6/"/>
+    <id>https://blog.marquis.eu.org/posts/1d6602d6/</id>
+    <published>2024-01-16T15:17:26.000Z</published>
+    <updated>2025-06-01T08:31:02.360Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;标题和作者&quot;&gt;标题和作者&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;ImageNet Classification with Deep Convolutional Neural Networks&lt;/strong&gt;&lt;/em&gt;，意为使用深度卷积神经网络在 ImageNe</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="深度学习" scheme="https://blog.marquis.eu.org/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/"/>
+    
+    <category term="论文笔记" scheme="https://blog.marquis.eu.org/tags/%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Transformer 位置编码</title>
+    <link href="https://blog.marquis.eu.org/posts/45612ab5/"/>
+    <id>https://blog.marquis.eu.org/posts/45612ab5/</id>
+    <published>2024-01-16T05:10:50.000Z</published>
+    <updated>2025-06-01T08:31:02.322Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;Transformer&quot;&gt;Transformer&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Attention Is All You Need&lt;/strong&gt;&lt;/em&gt; 是 Google 于 2017 年发表的论文，这篇论文提出了一种新的神经网络架构： &lt;stro</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="深度学习" scheme="https://blog.marquis.eu.org/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>数据科学竞赛平台推荐</title>
+    <link href="https://blog.marquis.eu.org/posts/eb08d4f/"/>
+    <id>https://blog.marquis.eu.org/posts/eb08d4f/</id>
+    <published>2024-01-12T12:59:14.000Z</published>
+    <updated>2025-06-01T08:31:02.401Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;Kaggle&quot;&gt;Kaggle&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Kaggle&lt;/strong&gt;，成立于 2010 年，于 2017 年 3 月被&lt;strong&gt;谷歌&lt;/strong&gt;收购，目前已是&lt;strong&gt;全球最大、最权威的数据科学竞赛平台&lt;/strong&gt;。</summary>
+      
+    
+    
+    
+    <category term="资源分享" scheme="https://blog.marquis.eu.org/categories/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="数据分析" scheme="https://blog.marquis.eu.org/tags/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/"/>
+    
+    <category term="深度学习" scheme="https://blog.marquis.eu.org/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/"/>
+    
+    <category term="机器学习" scheme="https://blog.marquis.eu.org/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>如何在数学建模竞赛中稳定拿奖</title>
+    <link href="https://blog.marquis.eu.org/posts/65f5385a/"/>
+    <id>https://blog.marquis.eu.org/posts/65f5385a/</id>
+    <published>2024-01-11T11:15:14.000Z</published>
+    <updated>2025-06-01T08:31:02.400Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;数学建模竞赛简介&quot;&gt;数学建模竞赛简介&lt;/h2&gt;
+&lt;h3 id=&quot;数学建模竞赛的基本要求&quot;&gt;数学建模竞赛的基本要求&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;通常由&lt;strong&gt;三人&lt;/strong&gt;组成&lt;strong&gt;团队&lt;/strong&gt;，团队分工通常为&lt;strong&gt;建模</summary>
+      
+    
+    
+    
+    <category term="实用教程" scheme="https://blog.marquis.eu.org/categories/%E5%AE%9E%E7%94%A8%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="数学建模" scheme="https://blog.marquis.eu.org/tags/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>机器学习 高维数据可视化：t-SNE 降维算法</title>
+    <link href="https://blog.marquis.eu.org/posts/3177b60d/"/>
+    <id>https://blog.marquis.eu.org/posts/3177b60d/</id>
+    <published>2023-12-16T15:49:46.000Z</published>
+    <updated>2025-06-01T08:31:02.404Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;t-SNE-简介&quot;&gt;t-SNE 简介&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;t-SNE&lt;/strong&gt; 的全称为 t-Distributed Stochastic Neighbor Embedding，是一种非线性降维算法，它可以将高维数据映射到低维空间，同时保持数据</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="机器学习" scheme="https://blog.marquis.eu.org/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>机器学习 sklearn 中的超参数搜索方法</title>
+    <link href="https://blog.marquis.eu.org/posts/f8512368/"/>
+    <id>https://blog.marquis.eu.org/posts/f8512368/</id>
+    <published>2023-12-07T14:10:58.000Z</published>
+    <updated>2025-06-01T08:31:02.401Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;超参数搜索&quot;&gt;超参数搜索&lt;/h2&gt;
+&lt;p&gt;在建模时模型的超参数往往会对精度造成一定影响，而设置和调整超参数的取值，往往称为&lt;strong&gt;调参&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;在实践中调参往往依赖人工来进行设置调整范围，然后使用机器在超参数范围内进行搜索，找到最</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="机器学习" scheme="https://blog.marquis.eu.org/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>机器学习 类别特征编码：Category Encoders 库的使用</title>
+    <link href="https://blog.marquis.eu.org/posts/6f6760b3/"/>
+    <id>https://blog.marquis.eu.org/posts/6f6760b3/</id>
+    <published>2023-12-07T12:31:50.000Z</published>
+    <updated>2025-06-01T08:31:02.403Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;Category-Encoders-简介&quot;&gt;Category Encoders 简介&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Category Encoders&lt;/strong&gt; 是一个用于将分类变量编码为数值的 Python 库，它提供了多种不同的编码技术。这些编码技术</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="机器学习" scheme="https://blog.marquis.eu.org/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>「ResNet-18」70 个犬种的图片分类</title>
+    <link href="https://blog.marquis.eu.org/posts/1cb2b6af/"/>
+    <id>https://blog.marquis.eu.org/posts/1cb2b6af/</id>
+    <published>2023-11-21T10:30:34.000Z</published>
+    <updated>2025-06-01T08:31:02.323Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;数据集与-Notebook&quot;&gt;数据集与 Notebook&lt;/h2&gt;
+&lt;p&gt;数据集：&lt;a href=&quot;https://www.kaggle.com/datasets/gpiosenka/70-dog-breedsimage-data-set&quot;&gt;70 Dog Bree</summary>
+      
+    
+    
+    
+    <category term="实用教程" scheme="https://blog.marquis.eu.org/categories/%E5%AE%9E%E7%94%A8%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="深度学习" scheme="https://blog.marquis.eu.org/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>「MobileNet V3」70 个犬种的图片分类</title>
+    <link href="https://blog.marquis.eu.org/posts/ff76da4a/"/>
+    <id>https://blog.marquis.eu.org/posts/ff76da4a/</id>
+    <published>2023-11-21T09:47:41.000Z</published>
+    <updated>2025-06-01T08:31:02.323Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;数据集与-Notebook&quot;&gt;数据集与 Notebook&lt;/h2&gt;
+&lt;p&gt;数据集：&lt;a href=&quot;https://www.kaggle.com/datasets/gpiosenka/70-dog-breedsimage-data-set&quot;&gt;70 Dog Bree</summary>
+      
+    
+    
+    
+    <category term="实用教程" scheme="https://blog.marquis.eu.org/categories/%E5%AE%9E%E7%94%A8%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="深度学习" scheme="https://blog.marquis.eu.org/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2023 年 全国大学生金融科技建模大赛 暨 第四届四川省大学生金融科技建模大赛 初赛数据分析</title>
+    <link href="https://blog.marquis.eu.org/posts/7e358d21/"/>
+    <id>https://blog.marquis.eu.org/posts/7e358d21/</id>
+    <published>2023-10-16T14:24:09.000Z</published>
+    <updated>2025-06-01T08:31:02.311Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;X1&quot;&gt;X1&lt;/h2&gt;
+&lt;h3 id=&quot;A1&quot;&gt;A1&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;特征类型&lt;/strong&gt;：类别特征&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;缺失率&lt;/strong&gt;：91.9869%&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;训练集与测试集中每个类别的个数分布&lt;</summary>
+      
+    
+    
+    
+    <category term="实用教程" scheme="https://blog.marquis.eu.org/categories/%E5%AE%9E%E7%94%A8%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="数据分析" scheme="https://blog.marquis.eu.org/tags/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/"/>
+    
+    <category term="数据可视化" scheme="https://blog.marquis.eu.org/tags/%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>机器学习 不均衡数据采样方法：imblearn 库的使用</title>
+    <link href="https://blog.marquis.eu.org/posts/ecd1f240/"/>
+    <id>https://blog.marquis.eu.org/posts/ecd1f240/</id>
+    <published>2023-10-03T12:57:01.000Z</published>
+    <updated>2025-06-01T08:31:02.402Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;imblearn-简介&quot;&gt;imblearn 简介&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;imblearn&lt;/strong&gt;（全名为 &lt;strong&gt;imbalanced-learn&lt;/strong&gt; ）是一个用于处理不平衡数据集的 Python 库。在许多实际情况中，数</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="机器学习" scheme="https://blog.marquis.eu.org/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Python 数据可视化：Seaborn 库的使用</title>
+    <link href="https://blog.marquis.eu.org/posts/e5132485/"/>
+    <id>https://blog.marquis.eu.org/posts/e5132485/</id>
+    <published>2023-09-14T16:14:58.000Z</published>
+    <updated>2025-06-01T08:31:02.319Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;Seaborn-简介&quot;&gt;Seaborn 简介&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Seaborn&lt;/strong&gt; 是一个基于 Python 的数据可视化库，它建立在 matplotlib 之上，并与 pandas 数据结构密切集成。Seaborn 的主要目的是通过使</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="数据可视化" scheme="https://blog.marquis.eu.org/tags/%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96/"/>
+    
+    <category term="Python" scheme="https://blog.marquis.eu.org/tags/Python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>程序设计 堆</title>
+    <link href="https://blog.marquis.eu.org/posts/48fee057/"/>
+    <id>https://blog.marquis.eu.org/posts/48fee057/</id>
+    <published>2023-08-14T08:43:09.000Z</published>
+    <updated>2023-08-25T05:14:23.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;堆简介&quot;&gt;堆简介&lt;/h2&gt;
+&lt;p&gt;堆是一棵树，其每个节点都有一个键值，且每个节点的键值都大于等于/小于等于其父亲的键值。&lt;/p&gt;
+&lt;p&gt;每个节点的键值都大于等于其父亲键值的堆叫做小根堆，否则叫做大根堆。STL 中的 &lt;code&gt;priority_queue&lt;/co</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="CPP" scheme="https://blog.marquis.eu.org/tags/CPP/"/>
+    
+    <category term="程序设计" scheme="https://blog.marquis.eu.org/tags/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>程序设计 树基础</title>
+    <link href="https://blog.marquis.eu.org/posts/9a4021f9/"/>
+    <id>https://blog.marquis.eu.org/posts/9a4021f9/</id>
+    <published>2023-08-13T17:16:24.000Z</published>
+    <updated>2023-10-17T12:05:31.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;引入&quot;&gt;引入&lt;/h2&gt;
+&lt;p&gt;图论中的树和现实生活中的树长得一样，只不过我们习惯于处理问题的时候把树根放到上方来考虑。&lt;/p&gt;
+&lt;p&gt;这种数据结构看起来像是一个倒挂的树，因此得名。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&quot;定义&quot;&gt;定义&lt;/h2&gt;
+&lt;p&gt;一个没有固定根结点</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="CPP" scheme="https://blog.marquis.eu.org/tags/CPP/"/>
+    
+    <category term="程序设计" scheme="https://blog.marquis.eu.org/tags/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>程序设计 算法基础</title>
+    <link href="https://blog.marquis.eu.org/posts/ef3da7a7/"/>
+    <id>https://blog.marquis.eu.org/posts/ef3da7a7/</id>
+    <published>2023-07-30T14:33:14.000Z</published>
+    <updated>2023-10-03T13:08:12.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;复杂度&quot;&gt;复杂度&lt;/h2&gt;
+&lt;p&gt;时间复杂度和空间复杂度是衡量一个算法效率的重要标准。&lt;/p&gt;
+&lt;h3 id=&quot;基本操作数&quot;&gt;基本操作数&lt;/h3&gt;
+&lt;p&gt;同一个算法在不同的计算机上运行的速度会有一定的差别，并且实际运行速度难以在理论上进行计算，实际去测量又比较麻烦</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="CPP" scheme="https://blog.marquis.eu.org/tags/CPP/"/>
+    
+    <category term="程序设计" scheme="https://blog.marquis.eu.org/tags/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>LaTeX 速查手册</title>
+    <link href="https://blog.marquis.eu.org/posts/a7fe3f03/"/>
+    <id>https://blog.marquis.eu.org/posts/a7fe3f03/</id>
+    <published>2023-07-11T14:15:44.000Z</published>
+    <updated>2024-01-16T15:22:20.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;LaTeX-简介&quot;&gt;LaTeX 简介&lt;/h2&gt;
+&lt;p&gt;&lt;span class=&quot;katex&quot;&gt;&lt;span class=&quot;katex-mathml&quot;&gt;&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;semantic</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="LaTeX" scheme="https://blog.marquis.eu.org/tags/LaTeX/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Python 背包问题</title>
+    <link href="https://blog.marquis.eu.org/posts/c3fed193/"/>
+    <id>https://blog.marquis.eu.org/posts/c3fed193/</id>
+    <published>2023-07-07T13:48:34.000Z</published>
+    <updated>2023-08-24T13:23:59.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;背包问题&quot;&gt;背包问题&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;背包问题&lt;/strong&gt;（&lt;strong&gt;Knapsack Problem&lt;/strong&gt;）是一类常见的组合优化问题。其问题描述为：给定一个固定大小、能够携重 &lt;span class=&quot;katex&quot;&gt;&lt;sp</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="程序设计" scheme="https://blog.marquis.eu.org/tags/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/"/>
+    
+    <category term="Python" scheme="https://blog.marquis.eu.org/tags/Python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Markdown 进阶语法：Mermaid 绘图 (二) - 顺序图 (Sequence Diagram)</title>
+    <link href="https://blog.marquis.eu.org/posts/4ad271e4/"/>
+    <id>https://blog.marquis.eu.org/posts/4ad271e4/</id>
+    <published>2023-07-06T08:44:30.000Z</published>
+    <updated>2023-08-25T05:14:23.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;Mermaid-简介&quot;&gt;Mermaid 简介&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Mermaid&lt;/strong&gt; 是一个基于 JavaScript 的图表绘制工具，它使用类似 Markdown 的简单语法来编写，并动态地将它们渲染成图表。&lt;/p&gt;
+&lt;p&gt;Mermai</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="Markdown" scheme="https://blog.marquis.eu.org/tags/Markdown/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Markdown 进阶语法：Mermaid 绘图 (一) - 流程图 (Flowchart)</title>
+    <link href="https://blog.marquis.eu.org/posts/aa90f87d/"/>
+    <id>https://blog.marquis.eu.org/posts/aa90f87d/</id>
+    <published>2023-07-04T14:54:35.000Z</published>
+    <updated>2023-08-25T05:14:23.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;Mermaid-简介&quot;&gt;Mermaid 简介&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Mermaid&lt;/strong&gt; 是一个基于 JavaScript 的图表绘制工具，它使用类似 Markdown 的简单语法来编写，并动态地将它们渲染成图表。&lt;/p&gt;
+&lt;p&gt;Mermai</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="Markdown" scheme="https://blog.marquis.eu.org/tags/Markdown/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MATLAB 层次分析法</title>
+    <link href="https://blog.marquis.eu.org/posts/bcd9d44e/"/>
+    <id>https://blog.marquis.eu.org/posts/bcd9d44e/</id>
+    <published>2023-07-02T15:23:18.000Z</published>
+    <updated>2023-08-25T05:14:23.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;层次分析法&quot;&gt;层次分析法&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;层次分析法&lt;/strong&gt;，简称 &lt;strong&gt;AHP&lt;/strong&gt;，是指将与决策总是有关的元素分解成目标、准则、方案等层次，在此基础之上进行定性和定量分析的决策方法。该方法是美国运筹学家匹茨堡大学</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="MATLAB" scheme="https://blog.marquis.eu.org/tags/MATLAB/"/>
+    
+    <category term="数学建模" scheme="https://blog.marquis.eu.org/tags/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MATLAB 投资问题</title>
+    <link href="https://blog.marquis.eu.org/posts/68d41990/"/>
+    <id>https://blog.marquis.eu.org/posts/68d41990/</id>
+    <published>2023-07-02T09:17:41.000Z</published>
+    <updated>2023-12-29T03:41:14.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;投资问题&quot;&gt;投资问题&lt;/h2&gt;
+&lt;p&gt;设有一笔资金 10 万，未来 5 年内可以投资 4 个项目：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;项目 1&lt;/strong&gt;：每年初投资，次年年末回收本利 115%；&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;项目 2&lt;/str</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="MATLAB" scheme="https://blog.marquis.eu.org/tags/MATLAB/"/>
+    
+    <category term="数学建模" scheme="https://blog.marquis.eu.org/tags/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>C++ 程序设计入门</title>
+    <link href="https://blog.marquis.eu.org/posts/a54c2388/"/>
+    <id>https://blog.marquis.eu.org/posts/a54c2388/</id>
+    <published>2023-07-01T15:35:15.000Z</published>
+    <updated>2023-08-24T13:23:59.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;程序是算法与数据结构的载体，是计算机用以解决问题的工具。&lt;/p&gt;
+&lt;p&gt;而在程序设计比赛中，最主流的语言是 &lt;strong&gt;C++&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;学习编程是学习程序设计最 &lt;strong&gt;基础&lt;/strong&gt; 的部分。&lt;/p&gt;
+&lt;h2 id=&quot;如何开始</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="CPP" scheme="https://blog.marquis.eu.org/tags/CPP/"/>
+    
+    <category term="程序设计" scheme="https://blog.marquis.eu.org/tags/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Markdown 扩展语法</title>
+    <link href="https://blog.marquis.eu.org/posts/e3d5aec0/"/>
+    <id>https://blog.marquis.eu.org/posts/e3d5aec0/</id>
+    <published>2023-06-29T08:50:56.000Z</published>
+    <updated>2023-08-25T05:14:23.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;Markdown-扩展语法入门&quot;&gt;Markdown 扩展语法入门&lt;/h2&gt;
+&lt;p&gt;John Gruber 的原始设计文档中概述的基本语法主要是为了应付大多数情况下的日常所需元素，但对于某些人来说还不够，这就是扩展语法的用武之地。&lt;/p&gt;
+&lt;p&gt;一些个人和组织开始通</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="Markdown" scheme="https://blog.marquis.eu.org/tags/Markdown/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Markdown 基本语法</title>
+    <link href="https://blog.marquis.eu.org/posts/7894e390/"/>
+    <id>https://blog.marquis.eu.org/posts/7894e390/</id>
+    <published>2023-06-28T10:12:25.000Z</published>
+    <updated>2023-08-25T05:14:23.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;Markdown-基本语法&quot;&gt;Markdown 基本语法&lt;/h2&gt;
+&lt;p&gt;Markdown 是一种轻量级标记语言，排版语法简洁，让人们更多地关注内容本身而非排版。它使用易读易写的纯文本格式编写文档，可与 HTML 混编，可导出 HTML、PDF 以及本身的 &lt;co</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="Markdown" scheme="https://blog.marquis.eu.org/tags/Markdown/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Markdown 入门基础</title>
+    <link href="https://blog.marquis.eu.org/posts/506e685f/"/>
+    <id>https://blog.marquis.eu.org/posts/506e685f/</id>
+    <published>2023-06-28T06:05:39.000Z</published>
+    <updated>2023-08-25T05:14:23.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;Markdown-是什么？&quot;&gt;Markdown 是什么？&lt;/h2&gt;
+&lt;p&gt;Markdown 是一种轻量级的标记语言，可用于在纯文本文档中添加格式化元素。Markdown 由 John Gruber 于 2004 年创建，如今已成为世界上最受欢迎的标记语言之一。&lt;/</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="Markdown" scheme="https://blog.marquis.eu.org/tags/Markdown/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>操作系统 - 进程和线程</title>
+    <link href="https://blog.marquis.eu.org/posts/b1f9d564/"/>
+    <id>https://blog.marquis.eu.org/posts/b1f9d564/</id>
+    <published>2023-06-22T15:20:00.000Z</published>
+    <updated>2023-08-25T05:14:23.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;核心概念&quot;&gt;核心概念&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;进程&lt;/strong&gt;(process)：对程序的创建、运行到终止全过程的抽象。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;上下文切换&lt;/strong&gt;(context switch)：通过保存和恢复进程在</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="操作系统" scheme="https://blog.marquis.eu.org/tags/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>操作系统 - 内存管理</title>
+    <link href="https://blog.marquis.eu.org/posts/4d368e33/"/>
+    <id>https://blog.marquis.eu.org/posts/4d368e33/</id>
+    <published>2023-06-22T12:27:00.000Z</published>
+    <updated>2023-08-25T05:14:23.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;核心概念&quot;&gt;核心概念&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;虚拟内存&lt;/strong&gt;(virtual memory)：应用程序面向虚拟内存编写，而不是物理地址，CPU 负责将虚拟地址翻译成物理地址。&lt;/p&gt;
+&lt;p&gt;虚拟内存设计的三个目标：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="操作系统" scheme="https://blog.marquis.eu.org/tags/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>操作系统 - 操作系统结构</title>
+    <link href="https://blog.marquis.eu.org/posts/76ede202/"/>
+    <id>https://blog.marquis.eu.org/posts/76ede202/</id>
+    <published>2023-06-22T10:15:22.000Z</published>
+    <updated>2023-08-25T05:14:23.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;操作系统的目标&quot;&gt;操作系统的目标&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;用户目标&lt;/strong&gt;：方便使用、容易学习、可靠、不易出错、高效等。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;系统目标&lt;/strong&gt;：易于实现与维护、灵活、可靠、不易出错、高效等。&lt;/</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="操作系统" scheme="https://blog.marquis.eu.org/tags/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>打家劫舍问题 Python题解</title>
+    <link href="https://blog.marquis.eu.org/posts/9e843097/"/>
+    <id>https://blog.marquis.eu.org/posts/9e843097/</id>
+    <published>2023-05-24T16:59:09.000Z</published>
+    <updated>2023-08-25T05:14:23.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;打家劫舍&quot;&gt;打家劫舍&lt;/h2&gt;
+&lt;h3 id=&quot;题目描述&quot;&gt;题目描述&lt;/h3&gt;
+&lt;p&gt;你是一个专业的小偷，计划偷窃沿街的房屋。每间房内都藏有一定的现金，影响你偷窃的唯一制约因素就是相邻的房屋装有相互连通的防盗系统，&lt;strong&gt;如果两间相邻的房屋在同一晚上被小偷</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="程序设计" scheme="https://blog.marquis.eu.org/tags/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/"/>
+    
+    <category term="Python" scheme="https://blog.marquis.eu.org/tags/Python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>使用 MATLAB 绘制爱心：帮助你成功表白</title>
+    <link href="https://blog.marquis.eu.org/posts/8bfe487f/"/>
+    <id>https://blog.marquis.eu.org/posts/8bfe487f/</id>
+    <published>2023-05-20T15:59:40.000Z</published>
+    <updated>2024-09-30T13:20:31.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;MATLAB-绘制爱心&quot;&gt;MATLAB 绘制爱心&lt;/h2&gt;
+&lt;p&gt;如何使用 MATLAB 绘制爱心图像？本文为大家准备了以下 4 种方法：&lt;/p&gt;
+&lt;h3 id=&quot;方法一&quot;&gt;方法一&lt;/h3&gt;
+&lt;p&gt;这个方法使用的是笛卡尔心形线的极坐标方程：&lt;/p&gt;
+&lt;p&gt;&lt;img</summary>
+      
+    
+    
+    
+    <category term="实用教程" scheme="https://blog.marquis.eu.org/categories/%E5%AE%9E%E7%94%A8%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="MATLAB" scheme="https://blog.marquis.eu.org/tags/MATLAB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>C++ 标准模板库（Standard Template Library，STL）</title>
+    <link href="https://blog.marquis.eu.org/posts/7468a076/"/>
+    <id>https://blog.marquis.eu.org/posts/7468a076/</id>
+    <published>2023-04-21T10:15:00.000Z</published>
+    <updated>2023-08-25T05:14:23.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;C-标准模板库简介&quot;&gt;C++ 标准模板库简介&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;C++ 标准模板库&lt;/strong&gt;（&lt;strong&gt;S&lt;/strong&gt;tandard &lt;strong&gt;T&lt;/strong&gt;emplate &lt;strong&gt;L&lt;/strong&gt;ibra</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="CPP" scheme="https://blog.marquis.eu.org/tags/CPP/"/>
+    
+    <category term="程序设计" scheme="https://blog.marquis.eu.org/tags/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Python 运行加速小技巧</title>
+    <link href="https://blog.marquis.eu.org/posts/a4a23ac0/"/>
+    <id>https://blog.marquis.eu.org/posts/a4a23ac0/</id>
+    <published>2023-03-27T15:22:00.000Z</published>
+    <updated>2023-08-25T05:14:23.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;使用-PyPy-代替-CPython&quot;&gt;使用 PyPy 代替 CPython&lt;/h2&gt;
+&lt;p&gt;Python 的默认解释器是 &lt;code&gt;CPython&lt;/code&gt;，它是用 C 语言实现的。由于 &lt;code&gt;CPython&lt;/code&gt; 的执行效率比较低，因此在一</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="程序设计" scheme="https://blog.marquis.eu.org/tags/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/"/>
+    
+    <category term="Python" scheme="https://blog.marquis.eu.org/tags/Python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Python 容器的时间复杂度</title>
+    <link href="https://blog.marquis.eu.org/posts/dda8eadf/"/>
+    <id>https://blog.marquis.eu.org/posts/dda8eadf/</id>
+    <published>2023-03-24T12:46:57.000Z</published>
+    <updated>2023-08-25T05:14:23.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;列表-List&quot;&gt;列表 List&lt;/h2&gt;
+&lt;p&gt;列表是 Python 中常用的容器之一，它的时间复杂度如下：&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;操作&lt;/th&gt;
+&lt;th&gt;平均时间复杂度&lt;/th&gt;
+&lt;th&gt;最坏时间复杂度&lt;/th&gt;
+&lt;/tr&gt;</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="程序设计" scheme="https://blog.marquis.eu.org/tags/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/"/>
+    
+    <category term="Python" scheme="https://blog.marquis.eu.org/tags/Python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Python 优先队列：heapq库的使用</title>
+    <link href="https://blog.marquis.eu.org/posts/f82fa460/"/>
+    <id>https://blog.marquis.eu.org/posts/f82fa460/</id>
+    <published>2023-03-15T09:32:32.000Z</published>
+    <updated>2023-08-25T05:14:23.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;简介&quot;&gt;简介&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;heapq&lt;/code&gt; 库是 Python 标准库中的一部分，它提供了一些堆操作的函数，可以用来实现优先队列。&lt;/p&gt;
+&lt;p&gt;优先队列是一种特殊的队列，它的每个元素都有一个优先级，元素的出队顺序是按照优先级从高到低的顺序</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="程序设计" scheme="https://blog.marquis.eu.org/tags/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/"/>
+    
+    <category term="Python" scheme="https://blog.marquis.eu.org/tags/Python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Python 二分查找：bisect库的使用</title>
+    <link href="https://blog.marquis.eu.org/posts/3a872285/"/>
+    <id>https://blog.marquis.eu.org/posts/3a872285/</id>
+    <published>2023-03-10T09:39:32.000Z</published>
+    <updated>2023-08-25T05:14:23.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;简介&quot;&gt;简介&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;bisect&lt;/code&gt; 库是 Python 标准库中的一部分，它提供了二分查找的功能。二分查找是一种在有序列表中查找某一特定元素的搜索算法。它的时间复杂度为 &lt;span class=&quot;katex&quot;&gt;&lt;span clas</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="程序设计" scheme="https://blog.marquis.eu.org/tags/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/"/>
+    
+    <category term="Python" scheme="https://blog.marquis.eu.org/tags/Python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MATLAB 遗传算法</title>
+    <link href="https://blog.marquis.eu.org/posts/c2313014/"/>
+    <id>https://blog.marquis.eu.org/posts/c2313014/</id>
+    <published>2023-02-13T10:39:56.000Z</published>
+    <updated>2023-08-25T05:14:23.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;遗传算法&quot;&gt;遗传算法&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;遗传算法&lt;/strong&gt;是一种模拟自然界生物进化机制的优化算法，它通过模拟自然选择、交叉和变异等操作来寻找问题的最优解。&lt;/p&gt;
+&lt;p&gt;遗传算法通常包括以下步骤：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;定</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="MATLAB" scheme="https://blog.marquis.eu.org/tags/MATLAB/"/>
+    
+    <category term="数学建模" scheme="https://blog.marquis.eu.org/tags/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MATLAB 粒子群算法</title>
+    <link href="https://blog.marquis.eu.org/posts/2fc40bbb/"/>
+    <id>https://blog.marquis.eu.org/posts/2fc40bbb/</id>
+    <published>2023-02-13T09:35:56.000Z</published>
+    <updated>2023-08-25T05:14:23.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;粒子群算法&quot;&gt;粒子群算法&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;粒子群算法&lt;/strong&gt;是一种启发式算法，它的核心是思想是利用群体中的个体对信息的共享使整个群体的运动在问题求解空间中产生从无序到有序的演化过程，从而获得问题的可行解。&lt;/p&gt;
+&lt;p&gt;粒子群算法属于进化</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="MATLAB" scheme="https://blog.marquis.eu.org/tags/MATLAB/"/>
+    
+    <category term="数学建模" scheme="https://blog.marquis.eu.org/tags/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MATLAB 马尔可夫链</title>
+    <link href="https://blog.marquis.eu.org/posts/905c9795/"/>
+    <id>https://blog.marquis.eu.org/posts/905c9795/</id>
+    <published>2023-02-08T09:45:56.000Z</published>
+    <updated>2023-08-25T05:14:23.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;马尔可夫链&quot;&gt;马尔可夫链&lt;/h2&gt;
+&lt;p&gt;马尔可夫链是一种随机过程，它的状态转移是由当前状态决定的，与过去的状态无关。马尔可夫链的状态转移矩阵是一个方阵，它的每一行元素之和为1，这样的矩阵称为&lt;strong&gt;概率转移矩阵&lt;/strong&gt;。马尔可夫链的状态转移矩阵</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="MATLAB" scheme="https://blog.marquis.eu.org/tags/MATLAB/"/>
+    
+    <category term="数学建模" scheme="https://blog.marquis.eu.org/tags/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MATLAB 回归分析</title>
+    <link href="https://blog.marquis.eu.org/posts/28f68f83/"/>
+    <id>https://blog.marquis.eu.org/posts/28f68f83/</id>
+    <published>2023-02-07T14:25:56.000Z</published>
+    <updated>2023-08-25T05:14:23.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;一元线性回归与多项式回归&quot;&gt;一元线性回归与多项式回归&lt;/h2&gt;
+&lt;p&gt;MATLAB 提供了 &lt;code&gt;polyfit&lt;/code&gt; 函数来进行一元回归，包括线性回归和多项式回归。&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;polyfit&lt;/code&gt; 函数的语法为：&lt;/p&gt;
+&lt;</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="MATLAB" scheme="https://blog.marquis.eu.org/tags/MATLAB/"/>
+    
+    <category term="数学建模" scheme="https://blog.marquis.eu.org/tags/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MATLAB 阻滞增长模型</title>
+    <link href="https://blog.marquis.eu.org/posts/7a739306/"/>
+    <id>https://blog.marquis.eu.org/posts/7a739306/</id>
+    <published>2023-02-07T08:43:56.000Z</published>
+    <updated>2023-08-25T05:14:23.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;人口增长模型&quot;&gt;人口增长模型&lt;/h2&gt;
+&lt;h3 id=&quot;Malthus模型（指数模型）&quot;&gt;Malthus模型（指数模型）&lt;/h3&gt;
+&lt;p&gt;最早的人口增长模型是 &lt;em&gt;&lt;strong&gt;Malthus&lt;/strong&gt;&lt;/em&gt; 于 1798 年提出的指数模型，基本</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="MATLAB" scheme="https://blog.marquis.eu.org/tags/MATLAB/"/>
+    
+    <category term="数学建模" scheme="https://blog.marquis.eu.org/tags/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MATLAB 种群竞争模型</title>
+    <link href="https://blog.marquis.eu.org/posts/b305ac89/"/>
+    <id>https://blog.marquis.eu.org/posts/b305ac89/</id>
+    <published>2023-02-07T07:07:56.000Z</published>
+    <updated>2023-08-25T05:14:23.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;种群竞争模型&quot;&gt;种群竞争模型&lt;/h2&gt;
+&lt;p&gt;当两个种群为争夺同一食物来源和生活空间相互竞争时，常见的结局是一方被淘汰，另一方获得优势。这种现象在生物学中被称为“竞争”。在数学建模中，我们可以通过种群竞争模型来模拟这种现象。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&quot;数学</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="MATLAB" scheme="https://blog.marquis.eu.org/tags/MATLAB/"/>
+    
+    <category term="数学建模" scheme="https://blog.marquis.eu.org/tags/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MATLAB 背包问题</title>
+    <link href="https://blog.marquis.eu.org/posts/eca9fa9c/"/>
+    <id>https://blog.marquis.eu.org/posts/eca9fa9c/</id>
+    <published>2023-02-06T16:07:56.000Z</published>
+    <updated>2023-10-24T02:58:48.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;背包问题&quot;&gt;背包问题&lt;/h2&gt;
+&lt;p&gt;背包问题是数学建模中的一个经典问题，其目的是在给定的背包容量下，选择一组物品，使得物品的价值最大化。在实际生活中，背包问题可以用于物流运输、物资调度等领域。&lt;/p&gt;
+&lt;p&gt;常见的背包问题有 0-1 背包问题、完全背包问题、多重</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="MATLAB" scheme="https://blog.marquis.eu.org/tags/MATLAB/"/>
+    
+    <category term="数学建模" scheme="https://blog.marquis.eu.org/tags/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MATLAB 最小生成树</title>
+    <link href="https://blog.marquis.eu.org/posts/4b068636/"/>
+    <id>https://blog.marquis.eu.org/posts/4b068636/</id>
+    <published>2023-02-06T13:37:56.000Z</published>
+    <updated>2024-07-13T06:42:02.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;最小生成树&quot;&gt;最小生成树&lt;/h2&gt;
+&lt;p&gt;最小生成树(Minimum Spanning Tree) 是一种用于寻找连通图中的最小权重生成树的算法。最小生成树的应用非常广泛，例如在网络规划中，我们需要在一定的成本下，使得网络中的所有节点都能够相互连接，这时候就可以使</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="MATLAB" scheme="https://blog.marquis.eu.org/tags/MATLAB/"/>
+    
+    <category term="数学建模" scheme="https://blog.marquis.eu.org/tags/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MATLAB 最短路</title>
+    <link href="https://blog.marquis.eu.org/posts/dfbf85c4/"/>
+    <id>https://blog.marquis.eu.org/posts/dfbf85c4/</id>
+    <published>2023-02-06T13:09:56.000Z</published>
+    <updated>2023-09-11T03:13:41.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;最短路&quot;&gt;最短路&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;最短路&lt;/strong&gt;是指在一个有向图中，从一个顶点到另一个顶点的最短路径。在数学建模中，最短路问题可以用来表示物流运输问题，例如：从一个城市到另一个城市的最短路程，从一个城市到另一个城市的最短时间，从一个城市到</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="MATLAB" scheme="https://blog.marquis.eu.org/tags/MATLAB/"/>
+    
+    <category term="数学建模" scheme="https://blog.marquis.eu.org/tags/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MATLAB 网络流</title>
+    <link href="https://blog.marquis.eu.org/posts/a4193072/"/>
+    <id>https://blog.marquis.eu.org/posts/a4193072/</id>
+    <published>2023-02-06T12:18:56.000Z</published>
+    <updated>2023-08-25T05:14:23.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;网络流&quot;&gt;网络流&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;网络流&lt;/strong&gt;是一种数学模型，用于描述在网络中流动的物质或信息。网络流模型可以用于描述物流、交通、通信、生物学等领域的问题。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&quot;最大流问题&quot;&gt;最大流问题&lt;/h2&gt;
+&lt;p&gt;&lt;</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="MATLAB" scheme="https://blog.marquis.eu.org/tags/MATLAB/"/>
+    
+    <category term="数学建模" scheme="https://blog.marquis.eu.org/tags/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MATLAB 多目标规划</title>
+    <link href="https://blog.marquis.eu.org/posts/878a4b9a/"/>
+    <id>https://blog.marquis.eu.org/posts/878a4b9a/</id>
+    <published>2023-02-06T09:12:56.000Z</published>
+    <updated>2023-08-25T05:14:23.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;多目标规划&quot;&gt;多目标规划&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;多目标规划&lt;/strong&gt;是指在一定的约束条件下，求解多个目标函数的最优解。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&quot;数学模型&quot;&gt;数学模型&lt;/h2&gt;
+&lt;h3 id=&quot;正负偏差变量&quot;&gt;正负偏差变量&lt;/h3&gt;
+&lt;p</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="MATLAB" scheme="https://blog.marquis.eu.org/tags/MATLAB/"/>
+    
+    <category term="数学建模" scheme="https://blog.marquis.eu.org/tags/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MATLAB 动态规划</title>
+    <link href="https://blog.marquis.eu.org/posts/f6c693ef/"/>
+    <id>https://blog.marquis.eu.org/posts/f6c693ef/</id>
+    <published>2023-02-05T15:45:56.000Z</published>
+    <updated>2023-08-25T05:14:23.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;什么是动态规划&quot;&gt;什么是动态规划&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;动态规划&lt;/strong&gt;是一种数学优化方法，它是一种在给定约束条件下，求解最优化问题的方法。动态规划的基本思想是将原问题分解为若干个&lt;strong&gt;子问题&lt;/strong&gt;，先求解子问题的最优解，</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="MATLAB" scheme="https://blog.marquis.eu.org/tags/MATLAB/"/>
+    
+    <category term="数学建模" scheme="https://blog.marquis.eu.org/tags/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>AI生成的 512×512 小嗷犬系列头像分享</title>
+    <link href="https://blog.marquis.eu.org/posts/3402b080/"/>
+    <id>https://blog.marquis.eu.org/posts/3402b080/</id>
+    <published>2023-02-05T13:45:56.000Z</published>
+    <updated>2023-08-25T05:14:23.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;自用头像&quot;&gt;自用头像&lt;/h2&gt;
+&lt;p&gt;以下头像已经被博主用作各个平台头像、个人网站logo等。&lt;/p&gt;
+&lt;p&gt;&lt;img src= &quot;/img/loading.gif&quot; onerror=&quot;this.onerror=null,this.src=&amp;quot;/img/f</summary>
+      
+    
+    
+    
+    <category term="资源分享" scheme="https://blog.marquis.eu.org/categories/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="深度学习" scheme="https://blog.marquis.eu.org/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MATLAB 蒙特卡洛方法求解非线性整数规划问题</title>
+    <link href="https://blog.marquis.eu.org/posts/dee99203/"/>
+    <id>https://blog.marquis.eu.org/posts/dee99203/</id>
+    <published>2023-02-04T15:03:56.000Z</published>
+    <updated>2023-08-25T05:14:23.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;非线性整数规划问题&quot;&gt;非线性整数规划问题&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;非线性整数规划问题&lt;/strong&gt;是指目标函数和约束条件都可能是非线性的，且变量为整数的优化问题。&lt;/p&gt;
+&lt;p&gt;在 MATLAB 中，没有专门的函数来求解非线性整数规划问题，但是可以通过</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="MATLAB" scheme="https://blog.marquis.eu.org/tags/MATLAB/"/>
+    
+    <category term="数学建模" scheme="https://blog.marquis.eu.org/tags/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MATLAB 自定义优化模型</title>
+    <link href="https://blog.marquis.eu.org/posts/91b3dbb7/"/>
+    <id>https://blog.marquis.eu.org/posts/91b3dbb7/</id>
+    <published>2023-02-04T09:00:56.000Z</published>
+    <updated>2023-08-25T05:14:23.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;简介&quot;&gt;简介&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;MATLAB R2017b&lt;/strong&gt; 中推出的优化工具箱提供了一系列的优化算法，可以用来求解优化问题。&lt;/p&gt;
+&lt;p&gt;它包括以下方法：&lt;/p&gt;
+&lt;figure class=&quot;highlight matlab&quot;&gt;</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="MATLAB" scheme="https://blog.marquis.eu.org/tags/MATLAB/"/>
+    
+    <category term="数学建模" scheme="https://blog.marquis.eu.org/tags/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MATLAB 线性整数规划</title>
+    <link href="https://blog.marquis.eu.org/posts/79f6e35f/"/>
+    <id>https://blog.marquis.eu.org/posts/79f6e35f/</id>
+    <published>2023-02-03T15:00:56.000Z</published>
+    <updated>2023-08-25T05:14:23.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;什么是线性整数规划问题&quot;&gt;什么是线性整数规划问题&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;整数规划问题&lt;/strong&gt;是指在一组&lt;strong&gt;线性不等式约束条件&lt;/strong&gt;下，求解一个&lt;strong&gt;线性目标函数&lt;/strong&gt;的最大值或最小值的问题，且目标函</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="MATLAB" scheme="https://blog.marquis.eu.org/tags/MATLAB/"/>
+    
+    <category term="数学建模" scheme="https://blog.marquis.eu.org/tags/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MATLAB 非线性规划</title>
+    <link href="https://blog.marquis.eu.org/posts/bef3d217/"/>
+    <id>https://blog.marquis.eu.org/posts/bef3d217/</id>
+    <published>2023-02-03T14:14:56.000Z</published>
+    <updated>2023-08-25T05:14:23.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;什么是非线性规划问题&quot;&gt;什么是非线性规划问题&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;非线性规划问题&lt;/strong&gt;仍是规划问题的一种，但是目标函数和约束条件不再是线性的，而是存在非线性的部分，如指数函数、对数函数、三角函数等。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&quot;如何使</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="MATLAB" scheme="https://blog.marquis.eu.org/tags/MATLAB/"/>
+    
+    <category term="数学建模" scheme="https://blog.marquis.eu.org/tags/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MATLAB 线性规划</title>
+    <link href="https://blog.marquis.eu.org/posts/5b88d05b/"/>
+    <id>https://blog.marquis.eu.org/posts/5b88d05b/</id>
+    <published>2023-02-03T13:20:56.000Z</published>
+    <updated>2023-08-25T05:14:23.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;什么是线性规划问题&quot;&gt;什么是线性规划问题&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;线性规划问题&lt;/strong&gt;是指在一组&lt;strong&gt;线性不等式约束条件&lt;/strong&gt;下，求解一个&lt;strong&gt;线性目标函数&lt;/strong&gt;的最大值或最小值的问题。&lt;/p&gt;
+&lt;hr</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="MATLAB" scheme="https://blog.marquis.eu.org/tags/MATLAB/"/>
+    
+    <category term="数学建模" scheme="https://blog.marquis.eu.org/tags/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MATLAB 控制结构</title>
+    <link href="https://blog.marquis.eu.org/posts/34a4cc13/"/>
+    <id>https://blog.marquis.eu.org/posts/34a4cc13/</id>
+    <published>2023-02-02T14:20:56.000Z</published>
+    <updated>2023-08-25T05:14:23.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;分支结构&quot;&gt;分支结构&lt;/h2&gt;
+&lt;p&gt;MATLAB 中的分支结构有 &lt;code&gt;if-else&lt;/code&gt; 结构、&lt;code&gt;switch&lt;/code&gt; 结构。&lt;/p&gt;
+&lt;h3 id=&quot;if-语句&quot;&gt;if 语句&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;if&lt;/code&gt; 语</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="MATLAB" scheme="https://blog.marquis.eu.org/tags/MATLAB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MATLAB 逻辑数组</title>
+    <link href="https://blog.marquis.eu.org/posts/7f385b7d/"/>
+    <id>https://blog.marquis.eu.org/posts/7f385b7d/</id>
+    <published>2023-02-02T14:08:56.000Z</published>
+    <updated>2023-08-25T05:14:23.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;关系运算&quot;&gt;关系运算&lt;/h2&gt;
+&lt;p&gt;关系运算符（例如 &lt;code&gt;&amp;gt;&lt;/code&gt;、&lt;code&gt;&amp;lt;&lt;/code&gt;、&lt;code&gt;==&lt;/code&gt; 和 &lt;code&gt;~=&lt;/code&gt;）执行两个值之间的比较。相等或不相等比较的结果为 1 (&lt;code&gt;t</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="MATLAB" scheme="https://blog.marquis.eu.org/tags/MATLAB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MATLAB 绘制数据图</title>
+    <link href="https://blog.marquis.eu.org/posts/1d0ac8a8/"/>
+    <id>https://blog.marquis.eu.org/posts/1d0ac8a8/</id>
+    <published>2023-02-02T13:50:56.000Z</published>
+    <updated>2023-08-25T05:14:23.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;绘制向量图&quot;&gt;绘制向量图&lt;/h2&gt;
+&lt;p&gt;可以使用 &lt;code&gt;plot&lt;/code&gt; 函数在一张图上绘制两个相同长度的向量。&lt;/p&gt;
+&lt;figure class=&quot;highlight matlab&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="MATLAB" scheme="https://blog.marquis.eu.org/tags/MATLAB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MATLAB 调用函数</title>
+    <link href="https://blog.marquis.eu.org/posts/78883633/"/>
+    <id>https://blog.marquis.eu.org/posts/78883633/</id>
+    <published>2023-02-02T13:23:56.000Z</published>
+    <updated>2023-08-25T05:14:23.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;获取函数的多个输出&quot;&gt;获取函数的多个输出&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;size&lt;/code&gt; 函数可以应用于数组，以生成包含数组大小的单个输出变量。&lt;/p&gt;
+&lt;figure class=&quot;highlight matlab&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="MATLAB" scheme="https://blog.marquis.eu.org/tags/MATLAB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MATLAB 数组计算</title>
+    <link href="https://blog.marquis.eu.org/posts/3f075a79/"/>
+    <id>https://blog.marquis.eu.org/posts/3f075a79/</id>
+    <published>2023-02-02T12:32:17.000Z</published>
+    <updated>2023-08-25T05:14:23.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;数组与标量的计算&quot;&gt;数组与标量的计算&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;MATLAB&lt;/code&gt; 的设计让我们能够自然地处理数组。&lt;br&gt;
+例如，我们可以将一个标量值与数组中的所有元素相加。&lt;/p&gt;
+&lt;figure class=&quot;highlight matlab&quot;&gt;&lt;</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="MATLAB" scheme="https://blog.marquis.eu.org/tags/MATLAB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Pytorch 基础</title>
+    <link href="https://blog.marquis.eu.org/posts/e5492ab6/"/>
+    <id>https://blog.marquis.eu.org/posts/e5492ab6/</id>
+    <published>2023-01-31T07:40:46.000Z</published>
+    <updated>2024-01-25T13:21:19.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;Pytorch-简介&quot;&gt;Pytorch 简介&lt;/h2&gt;
+&lt;h3 id=&quot;什么是-Pytorch&quot;&gt;什么是 Pytorch&lt;/h3&gt;
+&lt;p&gt;Python优先的深度学习框架，支持GPU加速和动态神经网络。&lt;/p&gt;
+&lt;h3 id=&quot;为什么使用-PyTorch&quot;&gt;为什么使</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="深度学习" scheme="https://blog.marquis.eu.org/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Python 海象运算符</title>
+    <link href="https://blog.marquis.eu.org/posts/5485090c/"/>
+    <id>https://blog.marquis.eu.org/posts/5485090c/</id>
+    <published>2023-01-27T15:04:46.000Z</published>
+    <updated>2024-11-09T13:43:38.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;介绍&quot;&gt;介绍&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;海象运算符&lt;/strong&gt;，即 &lt;code&gt;:=&lt;/code&gt; ，在 PEP 572 中被提出，并在 Python3.8 版本中发布。&lt;/p&gt;
+&lt;p&gt;海象运算符的英文原名叫&lt;code&gt;Assignment Expre</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="Python" scheme="https://blog.marquis.eu.org/tags/Python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JS手动触发PWA安装窗口</title>
+    <link href="https://blog.marquis.eu.org/posts/1b83e02d/"/>
+    <id>https://blog.marquis.eu.org/posts/1b83e02d/</id>
+    <published>2023-01-23T08:52:46.000Z</published>
+    <updated>2023-08-25T05:14:23.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;PWA&quot;&gt;PWA&lt;/h2&gt;
+&lt;p&gt;PWA（Progressive Web App）是一种理念，使用多种技术来增强 web app 的功能，可以让网站的体验变得更好，能够模拟一些原生功能，比如通知推送。在移动端利用标准化框架，让网页应用呈现和原生应用相似的体验。&lt;/</summary>
+      
+    
+    
+    
+    <category term="实用教程" scheme="https://blog.marquis.eu.org/categories/%E5%AE%9E%E7%94%A8%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="前端" scheme="https://blog.marquis.eu.org/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>基于 ResNet-18 的 CIFAR-10 物体分类</title>
+    <link href="https://blog.marquis.eu.org/posts/e54f0537/"/>
+    <id>https://blog.marquis.eu.org/posts/e54f0537/</id>
+    <published>2022-11-08T14:00:29.000Z</published>
+    <updated>2023-08-25T05:14:23.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;介绍&quot;&gt;介绍&lt;/h2&gt;
+&lt;h3 id=&quot;环境准备&quot;&gt;环境准备&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;使用到的库：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Pytorch&lt;/li&gt;
+&lt;li&gt;matplotlib&lt;/li&gt;
+&lt;li&gt;d2l&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="深度学习" scheme="https://blog.marquis.eu.org/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>基于 ResNet-18 的 Fashion-MNIST 服饰分类</title>
+    <link href="https://blog.marquis.eu.org/posts/6197291d/"/>
+    <id>https://blog.marquis.eu.org/posts/6197291d/</id>
+    <published>2022-11-07T14:42:52.000Z</published>
+    <updated>2023-08-25T05:14:23.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;介绍&quot;&gt;介绍&lt;/h2&gt;
+&lt;h3 id=&quot;环境准备&quot;&gt;环境准备&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;使用到的库：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Pytorch&lt;/li&gt;
+&lt;li&gt;matplotlib&lt;/li&gt;
+&lt;li&gt;d2l&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="深度学习" scheme="https://blog.marquis.eu.org/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>基于 NiN 的 Fashion-MNIST 服饰分类</title>
+    <link href="https://blog.marquis.eu.org/posts/3efac0d7/"/>
+    <id>https://blog.marquis.eu.org/posts/3efac0d7/</id>
+    <published>2022-11-06T15:31:44.000Z</published>
+    <updated>2023-08-25T05:14:23.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;介绍&quot;&gt;介绍&lt;/h2&gt;
+&lt;h3 id=&quot;环境准备&quot;&gt;环境准备&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;使用到的库：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Pytorch&lt;/li&gt;
+&lt;li&gt;matplotlib&lt;/li&gt;
+&lt;li&gt;d2l&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="深度学习" scheme="https://blog.marquis.eu.org/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>基于 VGG-16 的 Fashion-MNIST 服饰分类</title>
+    <link href="https://blog.marquis.eu.org/posts/f81565b1/"/>
+    <id>https://blog.marquis.eu.org/posts/f81565b1/</id>
+    <published>2022-11-05T14:42:39.000Z</published>
+    <updated>2023-08-25T05:14:23.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;介绍&quot;&gt;介绍&lt;/h2&gt;
+&lt;h3 id=&quot;环境准备&quot;&gt;环境准备&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;使用到的库：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Pytorch&lt;/li&gt;
+&lt;li&gt;matplotlib&lt;/li&gt;
+&lt;li&gt;d2l&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="深度学习" scheme="https://blog.marquis.eu.org/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>基于 AlexNet 的 Fashion-MNIST 服饰分类</title>
+    <link href="https://blog.marquis.eu.org/posts/7d12e9b0/"/>
+    <id>https://blog.marquis.eu.org/posts/7d12e9b0/</id>
+    <published>2022-11-04T14:10:46.000Z</published>
+    <updated>2024-10-13T12:14:23.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;介绍&quot;&gt;介绍&lt;/h2&gt;
+&lt;h3 id=&quot;环境准备&quot;&gt;环境准备&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;使用到的库：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Pytorch&lt;/li&gt;
+&lt;li&gt;matplotlib&lt;/li&gt;
+&lt;li&gt;d2l&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="深度学习" scheme="https://blog.marquis.eu.org/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>基于 LeNet-5 的 MNIST 手写数字分类</title>
+    <link href="https://blog.marquis.eu.org/posts/ba0be54b/"/>
+    <id>https://blog.marquis.eu.org/posts/ba0be54b/</id>
+    <published>2022-11-03T09:22:34.000Z</published>
+    <updated>2023-08-25T05:14:23.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;介绍&quot;&gt;介绍&lt;/h2&gt;
+&lt;h3 id=&quot;环境准备&quot;&gt;环境准备&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;使用到的库：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Pytorch&lt;/li&gt;
+&lt;li&gt;matplotlib&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;安装：&lt;/s</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="深度学习" scheme="https://blog.marquis.eu.org/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MATLAB 索引和修改数组</title>
+    <link href="https://blog.marquis.eu.org/posts/736e2433/"/>
+    <id>https://blog.marquis.eu.org/posts/736e2433/</id>
+    <published>2022-10-23T06:18:04.000Z</published>
+    <updated>2023-08-25T05:14:23.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;对数组进行索引&quot;&gt;对数组进行索引&lt;/h2&gt;
+&lt;p&gt;我们可以使用行、列索引从数组中提取值，如：&lt;/p&gt;
+&lt;figure class=&quot;highlight matlab&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="MATLAB" scheme="https://blog.marquis.eu.org/tags/MATLAB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MATLAB 向量和矩阵</title>
+    <link href="https://blog.marquis.eu.org/posts/1794867a/"/>
+    <id>https://blog.marquis.eu.org/posts/1794867a/</id>
+    <published>2022-10-22T12:56:48.000Z</published>
+    <updated>2023-08-25T05:14:23.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;输入数组&quot;&gt;输入数组&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;MATLAB&lt;/strong&gt; 中的每个数值变量都是一个&lt;strong&gt;数组&lt;/strong&gt;，单个称为标量的数值实际上是一个 &lt;code&gt;1×1&lt;/code&gt; 数组，也即它包含 &lt;code&gt;1&lt;/code&gt; </summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="MATLAB" scheme="https://blog.marquis.eu.org/tags/MATLAB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MATLAB 保存和加载变量</title>
+    <link href="https://blog.marquis.eu.org/posts/f4fe1c40/"/>
+    <id>https://blog.marquis.eu.org/posts/f4fe1c40/</id>
+    <published>2022-10-22T11:50:56.000Z</published>
+    <updated>2023-08-25T05:14:23.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;将变量保存到-mat文件中&quot;&gt;将变量保存到.mat文件中&lt;/h2&gt;
+&lt;p&gt;我们可以使用 &lt;code&gt;save&lt;/code&gt; 命令将工作区中的变量保存到称为 MAT 文件的 MATLAB 特定格式文件中，语法格式如下：&lt;/p&gt;
+&lt;figure class=&quot;high</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="MATLAB" scheme="https://blog.marquis.eu.org/tags/MATLAB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Python 三元表达式的另类实现</title>
+    <link href="https://blog.marquis.eu.org/posts/4364d32d/"/>
+    <id>https://blog.marquis.eu.org/posts/4364d32d/</id>
+    <published>2022-10-14T15:58:13.000Z</published>
+    <updated>2023-08-25T05:14:23.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;传统三元表达式&quot;&gt;传统三元表达式&lt;/h2&gt;
+&lt;p&gt;Python 中传统三元表达式的语法如下：&lt;br&gt;
+&lt;img src= &quot;/img/loading.gif&quot; onerror=&quot;this.onerror=null,this.src=&amp;quot;/img/frien</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="Python" scheme="https://blog.marquis.eu.org/tags/Python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Python 文件存储：pickle 和 json 库的使用</title>
+    <link href="https://blog.marquis.eu.org/posts/2b372df3/"/>
+    <id>https://blog.marquis.eu.org/posts/2b372df3/</id>
+    <published>2022-10-07T13:06:41.000Z</published>
+    <updated>2023-08-25T05:14:23.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;使用-pickle-存储-Python-对象&quot;&gt;使用 pickle 存储 Python 对象&lt;/h2&gt;
+&lt;p&gt;在 Python 中， 提供的 &lt;code&gt;pickle&lt;/code&gt; 模块能够将 Python 对象直接存储到文件中。 在需要使用数据时，直接从文件中读</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="Python" scheme="https://blog.marquis.eu.org/tags/Python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Python 文件操作与路径</title>
+    <link href="https://blog.marquis.eu.org/posts/c175a951/"/>
+    <id>https://blog.marquis.eu.org/posts/c175a951/</id>
+    <published>2022-10-07T13:01:25.000Z</published>
+    <updated>2023-08-25T05:14:23.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;文件与路径&quot;&gt;文件与路径&lt;/h2&gt;
+&lt;p&gt;在计算机中，&lt;strong&gt;文件&lt;/strong&gt;指的是存储在磁盘上的数据序列，它可以包含任何数据内容。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;文件名&lt;/strong&gt;是文件的一个重要属性。文件名通常由文件主名和扩展名构成。一般来</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="Python" scheme="https://blog.marquis.eu.org/tags/Python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Python 递归函数</title>
+    <link href="https://blog.marquis.eu.org/posts/e8a05b7e/"/>
+    <id>https://blog.marquis.eu.org/posts/e8a05b7e/</id>
+    <published>2022-10-06T15:41:19.000Z</published>
+    <updated>2023-08-25T05:14:23.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;引入&quot;&gt;引入&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;递归&lt;/strong&gt;是一种广泛应用算法。它能够把一个大型复杂的问题转化为一个与原问题相似的较小规模的问题来求解，用非常简洁的方法来解决重要问题。就像一个人站在装满镜子的房间中，看到的影像就是递归的结果。递归在数学和计</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="Python" scheme="https://blog.marquis.eu.org/tags/Python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Python 匿名函数</title>
+    <link href="https://blog.marquis.eu.org/posts/aef697f8/"/>
+    <id>https://blog.marquis.eu.org/posts/aef697f8/</id>
+    <published>2022-10-06T15:37:45.000Z</published>
+    <updated>2023-08-25T05:14:23.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;lambda-函数定义&quot;&gt;lambda 函数定义&lt;/h2&gt;
+&lt;p&gt;Python 中提供了一项非常有用的功能：利用 &lt;code&gt;lambda&lt;/code&gt; 函数来替代 &lt;code&gt;def&lt;/code&gt;， 创建一个临时简单函数。 请注意， 与 &lt;code&gt;def&lt;/c</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="Python" scheme="https://blog.marquis.eu.org/tags/Python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Python 变量作用域</title>
+    <link href="https://blog.marquis.eu.org/posts/2a7b7252/"/>
+    <id>https://blog.marquis.eu.org/posts/2a7b7252/</id>
+    <published>2022-10-06T15:36:05.000Z</published>
+    <updated>2023-08-25T05:14:23.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;变量作用域&quot;&gt;变量作用域&lt;/h2&gt;
+&lt;p&gt;Python 中规定每个变量都有它的作用域， 即变量只有在作用域范围内才是可见可用的。 作用域能避免程序代码中的名称冲突，在一个函数中定义的变量名称不会干扰另外一个函数内的变量。这有助于使函数更加独立。&lt;/p&gt;
+&lt;p&gt;根据</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="Python" scheme="https://blog.marquis.eu.org/tags/Python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Python 函数的定义与调用</title>
+    <link href="https://blog.marquis.eu.org/posts/19c7fd59/"/>
+    <id>https://blog.marquis.eu.org/posts/19c7fd59/</id>
+    <published>2022-10-06T15:33:54.000Z</published>
+    <updated>2023-08-25T05:14:23.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;定义和调用函数&quot;&gt;定义和调用函数&lt;/h2&gt;
+&lt;p&gt;Python 中使用&lt;code&gt;def&lt;/code&gt;语句创建函数，其一般的格式如下所示：&lt;/p&gt;
+&lt;figure class=&quot;highlight python&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gut</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="Python" scheme="https://blog.marquis.eu.org/tags/Python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Python 集合</title>
+    <link href="https://blog.marquis.eu.org/posts/d8744cec/"/>
+    <id>https://blog.marquis.eu.org/posts/d8744cec/</id>
+    <published>2022-10-06T12:55:25.000Z</published>
+    <updated>2023-08-25T05:14:23.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;集合及基本操作&quot;&gt;集合及基本操作&lt;/h2&gt;
+&lt;p&gt;集合类型与数学中集合的概念是一致的。它是由 0 个或多个唯一的、不可变的元素构成的无序组合。和字典一样，集合也是通过一对花括号&lt;code&gt;&amp;#123;&amp;#125;&lt;/code&gt;来标识的。&lt;/p&gt;
+&lt;p&gt;集合中的元素</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="Python" scheme="https://blog.marquis.eu.org/tags/Python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Python 字典</title>
+    <link href="https://blog.marquis.eu.org/posts/781e27f3/"/>
+    <id>https://blog.marquis.eu.org/posts/781e27f3/</id>
+    <published>2022-10-06T12:53:42.000Z</published>
+    <updated>2023-08-25T05:14:23.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;字典及基本操作&quot;&gt;字典及基本操作&lt;/h2&gt;
+&lt;p&gt;在 Python 中， 字典通过特定的键（&lt;code&gt;key&lt;/code&gt;），查找对应的值（&lt;code&gt;value&lt;/code&gt;）。键和值之间是一一对应的映射关系。字典是 Python 中唯一内置的、核心的映射类型</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="Python" scheme="https://blog.marquis.eu.org/tags/Python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Python 循环结构</title>
+    <link href="https://blog.marquis.eu.org/posts/ab260d5c/"/>
+    <id>https://blog.marquis.eu.org/posts/ab260d5c/</id>
+    <published>2022-10-06T12:49:54.000Z</published>
+    <updated>2023-08-25T05:14:23.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;while-循环语句&quot;&gt;while 循环语句&lt;/h2&gt;
+&lt;p&gt;Python 中有 &lt;code&gt;while&lt;/code&gt; 和 &lt;code&gt;for&lt;/code&gt; 两种循环结构，利用循环语句，可以让一个代码块一遍又一遍的执行。&lt;/p&gt;
+&lt;p&gt;对于&lt;code&gt;while&lt;</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="Python" scheme="https://blog.marquis.eu.org/tags/Python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Python 分支结构</title>
+    <link href="https://blog.marquis.eu.org/posts/c49856fd/"/>
+    <id>https://blog.marquis.eu.org/posts/c49856fd/</id>
+    <published>2022-10-06T12:48:15.000Z</published>
+    <updated>2023-08-25T05:14:23.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;语句和代码块&quot;&gt;语句和代码块&lt;/h2&gt;
+&lt;p&gt;程序是由语句和表达式构成的。&lt;/p&gt;
+&lt;p&gt;还有一些语句不仅仅由一行代码构成，例如分支和循环语句，在选择不同的分支或者 循环条件满足的情况下，有时需要执行多行代码。这样的语句称为&lt;strong&gt;复合语句&lt;/strong</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="Python" scheme="https://blog.marquis.eu.org/tags/Python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Python 正则匹配：re库的使用</title>
+    <link href="https://blog.marquis.eu.org/posts/c3196f43/"/>
+    <id>https://blog.marquis.eu.org/posts/c3196f43/</id>
+    <published>2022-10-06T04:07:32.000Z</published>
+    <updated>2023-08-25T05:14:23.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;引入&quot;&gt;引入&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;正则表达式&lt;/strong&gt;是一种描绘字符串的匹配模式，可以用来检查一个串是否含有某种子串、将匹配的子串替换或者从某个串中取出符合某个条件的子串等。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;比如我们可以使用以下正则表达</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="Python" scheme="https://blog.marquis.eu.org/tags/Python/"/>
+    
+    <category term="爬虫" scheme="https://blog.marquis.eu.org/tags/%E7%88%AC%E8%99%AB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Python 元组</title>
+    <link href="https://blog.marquis.eu.org/posts/3bfa306a/"/>
+    <id>https://blog.marquis.eu.org/posts/3bfa306a/</id>
+    <published>2022-10-03T16:05:49.000Z</published>
+    <updated>2023-08-25T05:14:23.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;引言&quot;&gt;引言&lt;/h2&gt;
+&lt;p&gt;除了两个方面，&lt;strong&gt;元组&lt;/strong&gt;数据类型几乎与列表数据类型一样。&lt;/p&gt;
+&lt;h3 id=&quot;用圆括号-表示&quot;&gt;用圆括号()表示&lt;/h3&gt;
+&lt;p&gt;首先，元组输入时用圆括号&lt;code&gt;()&lt;/code&gt;，而不是用方括号&lt;</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="Python" scheme="https://blog.marquis.eu.org/tags/Python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Python 列表</title>
+    <link href="https://blog.marquis.eu.org/posts/95b8e516/"/>
+    <id>https://blog.marquis.eu.org/posts/95b8e516/</id>
+    <published>2022-10-03T16:05:42.000Z</published>
+    <updated>2023-08-25T05:14:23.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;strong&gt;列表是一个值&lt;/strong&gt;，它包含多个值构成的序列。术语“列表值”指的是列表本身（它作为一个值，可以保存在变量中，或传递给函数，像所有其他值一样），而不是指列表值之内的那些值。&lt;/p&gt;
+&lt;p&gt;列表值看起来像这样：&lt;code&gt;[&#39;apple&#39;, &#39;bana</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="Python" scheme="https://blog.marquis.eu.org/tags/Python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Python 序列类型</title>
+    <link href="https://blog.marquis.eu.org/posts/7c5140c6/"/>
+    <id>https://blog.marquis.eu.org/posts/7c5140c6/</id>
+    <published>2022-10-03T16:05:31.000Z</published>
+    <updated>2023-08-25T05:14:23.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;什么是序列类型&quot;&gt;什么是序列类型&lt;/h2&gt;
+&lt;p&gt;在程序设计中，经常会遇到要处理很多相同类型的数据的情况，比如统计全班同学的分数、统计每篇博客的浏览量、统计每种商品的单价等等。&lt;/p&gt;
+&lt;p&gt;这时如果用一个变量存储一个数据，难免有些不便。Python 中的序列类型</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="Python" scheme="https://blog.marquis.eu.org/tags/Python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Python 导入模块</title>
+    <link href="https://blog.marquis.eu.org/posts/22e92eff/"/>
+    <id>https://blog.marquis.eu.org/posts/22e92eff/</id>
+    <published>2022-10-03T08:58:41.000Z</published>
+    <updated>2023-08-25T05:14:23.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;strong&gt;模块&lt;/strong&gt; 是第三方专门为了解决某些特定问题而编写的工具。Python 本身自带了一些常用的模块，例如，&lt;code&gt;math&lt;/code&gt;模块中具有较为复杂的求解正弦、余弦和平方根等运算，这些模块不需要安装，但是在使用前需要导入。&lt;/p&gt;
+&lt;p&gt;</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="Python" scheme="https://blog.marquis.eu.org/tags/Python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Python 常用内置函数</title>
+    <link href="https://blog.marquis.eu.org/posts/837acc9d/"/>
+    <id>https://blog.marquis.eu.org/posts/837acc9d/</id>
+    <published>2022-10-03T08:56:47.000Z</published>
+    <updated>2023-08-25T05:14:23.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Python 中共有 75 个内置函数，这些是 Python 自带的函数，在需要使用时可以直接调用。&lt;/p&gt;
+&lt;p&gt;下表列出了一些常用的 Python 内置函数：&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;函数名称&lt;/th&gt;
+&lt;th&gt;代码示例&lt;/th&gt;
+&lt;t</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="Python" scheme="https://blog.marquis.eu.org/tags/Python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Python bool类型与逻辑关系运算</title>
+    <link href="https://blog.marquis.eu.org/posts/1b55a745/"/>
+    <id>https://blog.marquis.eu.org/posts/1b55a745/</id>
+    <published>2022-10-03T08:54:02.000Z</published>
+    <updated>2023-08-25T05:14:23.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;bool类型&quot;&gt;bool类型&lt;/h2&gt;
+&lt;p&gt;Python 中的布尔类型只有两种值：&lt;code&gt;True&lt;/code&gt; 和 &lt;code&gt;False&lt;/code&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;bool&lt;/code&gt;类型是数字类型，在参与数学计算时会分别转型为&lt;cod</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="Python" scheme="https://blog.marquis.eu.org/tags/Python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Python 控制台输入与输出</title>
+    <link href="https://blog.marquis.eu.org/posts/18c65404/"/>
+    <id>https://blog.marquis.eu.org/posts/18c65404/</id>
+    <published>2022-10-03T08:51:24.000Z</published>
+    <updated>2023-08-25T05:14:23.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;input-控制台输入&quot;&gt;input() 控制台输入&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;input()&lt;/code&gt;函数等待用户在键盘上输入一些文本，并按下回车键。返回一个&lt;strong&gt;字符串&lt;/strong&gt;，即用户输入的文本：&lt;/p&gt;
+&lt;figure class=</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="Python" scheme="https://blog.marquis.eu.org/tags/Python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Python 常用字符串方法</title>
+    <link href="https://blog.marquis.eu.org/posts/9229df8a/"/>
+    <id>https://blog.marquis.eu.org/posts/9229df8a/</id>
+    <published>2022-10-03T08:48:57.000Z</published>
+    <updated>2023-08-25T05:14:23.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;获取字符串长度函数-len&quot;&gt;获取字符串长度函数 len()&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;len()&lt;/code&gt;函数可以帮助我们获取字符串长度，即字符串中字符的个数：&lt;/p&gt;
+&lt;figure class=&quot;highlight python&quot;&gt;&lt;table&gt;&lt;tr</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="Python" scheme="https://blog.marquis.eu.org/tags/Python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Python 字符串</title>
+    <link href="https://blog.marquis.eu.org/posts/fe4ed95b/"/>
+    <id>https://blog.marquis.eu.org/posts/fe4ed95b/</id>
+    <published>2022-10-03T08:45:51.000Z</published>
+    <updated>2023-08-25T05:14:23.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;基本概念&quot;&gt;基本概念&lt;/h2&gt;
+&lt;p&gt;字符串被用来表示文本。在 Python 中，字符串是用两个双引号&lt;code&gt;&amp;quot; &amp;quot;&lt;/code&gt;或者单引号&lt;code&gt;&#39; &#39;&lt;/code&gt;括起来的一个或多个字符。当字符串较长时，也会用三引号&lt;code&gt;&#39;&#39;</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="Python" scheme="https://blog.marquis.eu.org/tags/Python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Python 数字类型</title>
+    <link href="https://blog.marquis.eu.org/posts/36c55ca0/"/>
+    <id>https://blog.marquis.eu.org/posts/36c55ca0/</id>
+    <published>2022-10-03T08:40:16.000Z</published>
+    <updated>2023-08-25T05:14:23.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;整型-int&quot;&gt;整型 int&lt;/h2&gt;
+&lt;p&gt;在 Python 中，整型数用关键字&lt;code&gt;int&lt;/code&gt;表示（即英文单词 integer 的简写），包括：正整数、零和负整数。整型数全部由数字构成，不包括小数部分。&lt;/p&gt;
+&lt;p&gt;Python中的整型&lt;st</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="Python" scheme="https://blog.marquis.eu.org/tags/Python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Python 表达式与运算符</title>
+    <link href="https://blog.marquis.eu.org/posts/937f936b/"/>
+    <id>https://blog.marquis.eu.org/posts/937f936b/</id>
+    <published>2022-10-03T08:36:47.000Z</published>
+    <updated>2023-08-25T05:14:23.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;表达式&quot;&gt;表达式&lt;/h2&gt;
+&lt;p&gt;表达式是程序设计语言中最基本的结构，包含 “&lt;strong&gt;值&lt;/strong&gt;”和“&lt;strong&gt;运算符&lt;/strong&gt;”，并且总是可以求值（即归约）为单个值。&lt;/p&gt;
+&lt;h2 id=&quot;数学运算符&quot;&gt;数学运算符&lt;/h2&gt;
+&lt;</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="Python" scheme="https://blog.marquis.eu.org/tags/Python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Python 变量</title>
+    <link href="https://blog.marquis.eu.org/posts/18ed7528/"/>
+    <id>https://blog.marquis.eu.org/posts/18ed7528/</id>
+    <published>2022-10-03T08:32:17.000Z</published>
+    <updated>2023-08-25T05:14:23.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;定义与赋值&quot;&gt;定义与赋值&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;在程序设计过程中，对于不需要改变且不能改变的字面值，称为常量。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;变量与常量相反， 变量的值可以改变。Python 中使用变量来收集和记录数据。每个变量用一</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="Python" scheme="https://blog.marquis.eu.org/tags/Python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Python 数据处理：Pandas库的使用</title>
+    <link href="https://blog.marquis.eu.org/posts/250f9000/"/>
+    <id>https://blog.marquis.eu.org/posts/250f9000/</id>
+    <published>2022-09-16T05:28:51.000Z</published>
+    <updated>2023-10-07T13:00:34.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;strong&gt;Pandas&lt;/strong&gt; 是基于 NumPy 数组构建的，特别是基于数组的函数和不使用 &lt;code&gt;for&lt;/code&gt; 循环的数据处理。&lt;/p&gt;
+&lt;p&gt;虽然 &lt;strong&gt;Pandas&lt;/strong&gt; 采用了大量的 NumPy 编码风格，但二者最</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="数据分析" scheme="https://blog.marquis.eu.org/tags/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/"/>
+    
+    <category term="Python" scheme="https://blog.marquis.eu.org/tags/Python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Python 反爬虫与反反爬虫</title>
+    <link href="https://blog.marquis.eu.org/posts/29724f93/"/>
+    <id>https://blog.marquis.eu.org/posts/29724f93/</id>
+    <published>2022-09-08T14:26:31.000Z</published>
+    <updated>2024-10-10T10:29:49.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;什么是爬虫&quot;&gt;什么是爬虫&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;网络爬虫&lt;/strong&gt;（又称为网页蜘蛛，网络机器人，在FOAF社区中间，更经常的称为网页追逐者），是一种按照一定的规则，自动地抓取万维网信息的程序或者脚本。另外一些不常使用的名字还有蚂蚁、自动索引、模拟</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="Python" scheme="https://blog.marquis.eu.org/tags/Python/"/>
+    
+    <category term="爬虫" scheme="https://blog.marquis.eu.org/tags/%E7%88%AC%E8%99%AB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Python 页面解析：Beautiful Soup库的使用</title>
+    <link href="https://blog.marquis.eu.org/posts/c0c78719/"/>
+    <id>https://blog.marquis.eu.org/posts/c0c78719/</id>
+    <published>2022-09-08T07:47:06.000Z</published>
+    <updated>2024-10-10T10:29:49.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;Beautiful-Soup库简介&quot;&gt;Beautiful Soup库简介&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Beautiful Soup&lt;/strong&gt; 简称 &lt;strong&gt;BS4&lt;/strong&gt;（其中 4 表示版本号）是一个 Python 中常用的页面解析库</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="Python" scheme="https://blog.marquis.eu.org/tags/Python/"/>
+    
+    <category term="爬虫" scheme="https://blog.marquis.eu.org/tags/%E7%88%AC%E8%99%AB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Python 文档解析：lxml库的使用</title>
+    <link href="https://blog.marquis.eu.org/posts/5ece4852/"/>
+    <id>https://blog.marquis.eu.org/posts/5ece4852/</id>
+    <published>2022-09-07T16:54:39.000Z</published>
+    <updated>2024-10-10T10:29:49.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;lxml库简介&quot;&gt;lxml库简介&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;lxml&lt;/strong&gt; 是 Python 常用的文档解析库，能够高效地解析 HTML/XML 文档，常用于 Python 爬虫。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;lxml&lt;/strong&gt; 为第三</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="Python" scheme="https://blog.marquis.eu.org/tags/Python/"/>
+    
+    <category term="爬虫" scheme="https://blog.marquis.eu.org/tags/%E7%88%AC%E8%99%AB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Python 网页请求：requests库的使用</title>
+    <link href="https://blog.marquis.eu.org/posts/20f34833/"/>
+    <id>https://blog.marquis.eu.org/posts/20f34833/</id>
+    <published>2022-09-07T14:54:16.000Z</published>
+    <updated>2024-10-10T11:10:36.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;requests库简介&quot;&gt;requests库简介&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;requests&lt;/strong&gt; 是 Python 中比较常用的网页请求库，主要用来发送 HTTP 请求，在使用爬虫或测试服务器响应数据时经常会用到，使用起来十分简洁。&lt;/p&gt;
+&lt;</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="Python" scheme="https://blog.marquis.eu.org/tags/Python/"/>
+    
+    <category term="爬虫" scheme="https://blog.marquis.eu.org/tags/%E7%88%AC%E8%99%AB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Python 海龟绘图：turtle库的使用</title>
+    <link href="https://blog.marquis.eu.org/posts/b5ae3286/"/>
+    <id>https://blog.marquis.eu.org/posts/b5ae3286/</id>
+    <published>2022-08-30T16:13:47.000Z</published>
+    <updated>2023-08-25T05:14:23.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;turtle-简介&quot;&gt;turtle 简介&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;turtle&lt;/code&gt;库是 turtle 绘图体系 Python 的实现，turtle 库是 python 的标准库之一，属于入门级的图形绘制函数库。&lt;/p&gt;
+&lt;p&gt;turtle 库绘制原理</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="Python" scheme="https://blog.marquis.eu.org/tags/Python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Python 数据处理：NumPy库的使用</title>
+    <link href="https://blog.marquis.eu.org/posts/ee738371/"/>
+    <id>https://blog.marquis.eu.org/posts/ee738371/</id>
+    <published>2022-08-26T13:33:00.000Z</published>
+    <updated>2023-10-07T13:00:34.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;NumPy简介&quot;&gt;NumPy简介&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;NumPy&lt;/strong&gt;（Numerical Python的简称）是Python数值计算最重要的基础包。大多数提供科学计算的包都是用NumPy的数组作为构建基础。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="数据分析" scheme="https://blog.marquis.eu.org/tags/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/"/>
+    
+    <category term="Python" scheme="https://blog.marquis.eu.org/tags/Python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Python 类与对象</title>
+    <link href="https://blog.marquis.eu.org/posts/4bcdc7f7/"/>
+    <id>https://blog.marquis.eu.org/posts/4bcdc7f7/</id>
+    <published>2022-08-25T09:40:12.000Z</published>
+    <updated>2023-08-25T05:14:23.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;类与对象&quot;&gt;类与对象&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Python 是一种面向对象的编程语言。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Python 中的几乎所有东西都是对象，拥有属性和方法。&lt;br&gt;
+类（Class）类似对象构造函数，或者是用于创建对</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="Python" scheme="https://blog.marquis.eu.org/tags/Python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Python 伪随机数：random库的使用</title>
+    <link href="https://blog.marquis.eu.org/posts/d240d7e2/"/>
+    <id>https://blog.marquis.eu.org/posts/d240d7e2/</id>
+    <published>2022-08-20T13:56:55.000Z</published>
+    <updated>2023-08-25T05:14:23.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;常用函数&quot;&gt;常用函数&lt;/h2&gt;
+&lt;p&gt;使用&lt;code&gt;random&lt;/code&gt;库主要目的是生成随机数，因此，只需要查阅该库的随机数生成函数，找到符合使用场景的函数使用即可。这个库提供了不同类型的随机数函数，所有函数都是基于最基本的&lt;code&gt;random.ran</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="Python" scheme="https://blog.marquis.eu.org/tags/Python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Python 异常处理机制</title>
+    <link href="https://blog.marquis.eu.org/posts/b9e02c83/"/>
+    <id>https://blog.marquis.eu.org/posts/b9e02c83/</id>
+    <published>2022-08-20T13:29:29.000Z</published>
+    <updated>2023-08-25T05:14:23.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;try-except-语句&quot;&gt;try-except 语句&lt;/h2&gt;
+&lt;p&gt;Python解释器在运行出现异常时，会返回异常信息，告诉我们错误出现在哪一行，错误类型是什么，具体原因是什么。&lt;/p&gt;
+&lt;p&gt;在异常可能发生的地方添加异常处理程序，对于用户明确错误是一种好方</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="Python" scheme="https://blog.marquis.eu.org/tags/Python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>C 语言中的基础数据类型</title>
+    <link href="https://blog.marquis.eu.org/posts/58cdca1e/"/>
+    <id>https://blog.marquis.eu.org/posts/58cdca1e/</id>
+    <published>2022-08-01T16:10:00.000Z</published>
+    <updated>2023-08-25T05:14:23.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;整型&quot;&gt;整型&lt;/h2&gt;
+&lt;h3 id=&quot;什么是整型&quot;&gt;什么是整型&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;整型&lt;/strong&gt;，即整数类型，用于表示整数的数据类型，通常指 int 类型，广义上包括长整型 long long、无符号整型 unsigned int 等整数类</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.marquis.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="C" scheme="https://blog.marquis.eu.org/tags/C/"/>
+    
+  </entry>
+  
+</feed>
